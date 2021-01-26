@@ -1,0 +1,1386 @@
+country_code,reg_id,regional_name,tl,period,deaths_cummean_1619,deaths_growth_1619,typology
+AUS,AU1,New South Wales,2,January to August,31842.25,-1.322927870989021,NA
+AUS,AU2,Victoria,2,January to August,22234.5,0.8252940250511598,NA
+AUS,AU3,Queensland,2,January to August,18826.25,0.1155301772790551,NA
+AUS,AU4,South Australia,2,January to August,7247,0.1103905064164579,NA
+AUS,AU5,Western Australia,2,January to August,8145.75,-1.654236871988457,NA
+AUS,AU6,Tasmania,2,January to August,2596.5,-9.917196225688429,NA
+AUS,AU7,Northern Territory,2,January to August,1865.75,-0.7905667961945584,NA
+AUS,AU8,Australian Capital Territory,2,January to August,1865.75,-0.7905667961945584,NA
+AUT,AT11,Burgenland,2,January to August,2250,-0.5333333333333301,NA
+AUT,AT111,Mittelburgenland,3,January to August,326.25,2.988505747126435,Regions far from a metropolitan area
+AUT,AT112,Nordburgenland,3,January to August,1133.25,-2.934039267593203,Metropolitan region
+AUT,AT113,Südburgenland,3,January to August,790.5,1.454775458570534,Regions far from a metropolitan area
+AUT,AT12,Lower Austria,2,January to August,11553.25,2.35215199186376,NA
+AUT,AT121,Mostviertel-Eisenwurzen,3,January to August,1621.5,1.757631822386685,Regions near a metropolitan area
+AUT,AT122,Niederösterreich-Süd,3,January to August,1889.75,0.9657362084931842,Regions near a metropolitan area
+AUT,AT123,Sankt Pölten,3,January to August,1008.25,-3.099429704934287,Regions far from a metropolitan area
+AUT,AT124,Waldviertel,3,January to August,1719,3.839441535776622,Regions far from a metropolitan area
+AUT,AT125,Weinviertel,3,January to August,1046.25,1.792114695340508,Metropolitan region
+AUT,AT126,Wiener Umland/Nordteil,3,January to August,2076,5.780346820809257,Metropolitan region
+AUT,AT127,Wiener Umland/Südteil,3,January to August,2192.5,2.348916761687581,Metropolitan region
+AUT,AT13,Vienna,2,January to August,10603.75,4.745962513261826,NA
+AUT,AT130,Vienna,3,January to August,10603.75,4.745962513261826,Metropolitan region
+AUT,AT21,Carinthia,2,January to August,4066.25,-1.506301875192129,NA
+AUT,AT211,Klagenfurt-Villach,3,January to August,2013,-4.222553402881268,Regions far from a metropolitan area
+AUT,AT212,Oberkärnten,3,January to August,923.75,0.4600811907983671,Regions far from a metropolitan area
+AUT,AT213,Unterkärnten,3,January to August,1129.5,1.726427622841964,Regions far from a metropolitan area
+AUT,AT22,Styria,2,January to August,8307.75,4.67334717582979,NA
+AUT,AT221,Graz,3,January to August,2462.25,9.290283277490108,Metropolitan region
+AUT,AT222,Liezen,3,January to August,562.25,0.6669630947087501,Regions far from a metropolitan area
+AUT,AT223,Östliche Obersteiermark,3,January to August,1359.25,3.660106676476005,Regions far from a metropolitan area
+AUT,AT224,Oststeiermark,3,January to August,1732,5.080831408775977,Regions near a metropolitan area
+AUT,AT225,West- und Südsteiermark,3,January to August,1362.5,2.311926605504588,Metropolitan region
+AUT,AT226,Westliche Obersteiermark,3,January to August,829.5,-1.627486437613024,Regions far from a metropolitan area
+AUT,AT31,Upper Austria,2,January to August,8944.5,0.5869528760690912,NA
+AUT,AT311,Innviertel,3,January to August,1744.5,-1.289767841788481,Regions near a metropolitan area
+AUT,AT312,Linz-Wels,3,January to August,3478,0.2587694077055724,Metropolitan region
+AUT,AT313,Mühlviertel,3,January to August,1226.5,1.671422747655926,Metropolitan region
+AUT,AT314,Steyr-Kirchdorf,3,January to August,1007,3.574975173783512,Regions near a metropolitan area
+AUT,AT315,Traunviertel,3,January to August,1488.5,0.6382264024185513,Regions near a metropolitan area
+AUT,AT32,Salzburg,2,January to August,3001.75,6.071458315982348,NA
+AUT,AT321,Lungau,3,January to August,127.5,-6.666666666666665,Regions far from a metropolitan area
+AUT,AT322,Pinzgau-Pongau,3,January to August,910,9.8901098901099,Regions far from a metropolitan area
+AUT,AT323,Salzburg und Umgebung,3,January to August,1964.25,5.129184166984846,Metropolitan region
+AUT,AT33,Tyrol,2,January to August,3994.5,4.243334585054459,NA
+AUT,AT331,Außerfern,3,January to August,182.75,-6.976744186046513,Regions far from a metropolitan area
+AUT,AT332,Innsbruck,3,January to August,1635,3.853211009174307,Metropolitan region
+AUT,AT333,Osttirol,3,January to August,316.5,-6.477093206951023,Regions far from a metropolitan area
+AUT,AT334,Tiroler Oberland,3,January to August,522.5,5.837320574162686,Regions near a metropolitan area
+AUT,AT335,Tiroler Unterland,3,January to August,1337.75,8.166697813492796,Regions near a metropolitan area
+AUT,AT34,Vorarlberg,2,January to August,1991.25,3.151286880100446,NA
+AUT,AT341,Bludenz-Bregenzer Wald,3,January to August,496.5,-7.351460221550854,Regions far from a metropolitan area
+AUT,AT342,Rheintal-Bodenseegebiet,3,January to August,1494.75,6.639906338852653,Regions far from a metropolitan area
+BEL,BE1,Brussels Capital Region,2,January to August,6086.25,18.61162456356542,NA
+BEL,BE100,Arr. de Bruxelles-Capitale / Arr. Van Brussel-Hoofdstad,3,January to August,6086.25,18.61162456356542,Metropolitan region
+BEL,BE2,Flemish Region,2,January to August,42256.75,10.40366332006128,NA
+BEL,BE211,Arr. Antwerpen,3,January to August,6722.5,6.998884343622169,Metropolitan region
+BEL,BE212,Arr. Mechelen,3,January to August,2200.25,10.1238495625497,Regions near a metropolitan area
+BEL,BE213,Arr. Turnhout,3,January to August,2718.25,11.72629449094087,Regions near a metropolitan area
+BEL,BE221,Arr. Hasselt,3,January to August,2621.25,17.57749165474487,Regions near a metropolitan area
+BEL,BE222,Arr. Maaseik,3,January to August,1297.75,15.66172221151994,Regions near a metropolitan area
+BEL,BE223,Arr. Tongeren,3,January to August,1239,21.63034705407587,Regions near a metropolitan area
+BEL,BE231,Arr. Aalst,3,January to August,2008.75,10.11823273179837,Metropolitan region
+BEL,BE232,Arr. Dendermonde,3,January to August,1365.25,8.478300677531593,Regions near a metropolitan area
+BEL,BE233,Arr. Eeklo,3,January to August,584.75,10.3035485250107,Metropolitan region
+BEL,BE234,Arr. Gent,3,January to August,3457.25,5.806638224021987,Metropolitan region
+BEL,BE235,Arr. Oudenaarde,3,January to August,873.25,5.811623246492981,Regions near a metropolitan area
+BEL,BE236,Arr. Sint-Niklaas,3,January to August,1559.25,9.924643257976594,Regions near a metropolitan area
+BEL,BE241,Arr. Halle-Vilvoorde,3,January to August,3770.25,7.923877726941186,Metropolitan region
+BEL,BE242,Arr. Leuven,3,January to August,3216,11.03855721393035,Regions near a metropolitan area
+BEL,BE251,Arr. Brugge,3,January to August,2089.5,8.925580282364209,Regions near a metropolitan area
+BEL,BE252,Arr. Diksmuide,3,January to August,373.25,-1.406563965170793,Regions near a metropolitan area
+BEL,BE253,Arr. Ieper,3,January to August,735.5,18.42284160435079,Regions near a metropolitan area
+BEL,BE254,Arr. Kortrijk,3,January to August,1994.5,11.8576084231637,Regions near a metropolitan area
+BEL,BE255,Arr. Oostende,3,January to August,1307.25,10.46089118378275,Regions near a metropolitan area
+BEL,BE256,Arr. Roeselare,3,January to August,988.75,13.17319848293299,Regions near a metropolitan area
+BEL,BE257,Arr. Tielt,3,January to August,586.25,19.06183368869936,Regions near a metropolitan area
+BEL,BE258,Arr. Veurne,3,January to August,548,14.78102189781021,Regions near a metropolitan area
+BEL,BE3,Wallonia,2,January to August,25737,9.305668881377006,NA
+BEL,BE310,Arr. Nivelles,3,January to August,2414.75,7.630189460606696,Metropolitan region
+BEL,BE321,Arr. Ath,3,January to August,627,3.349282296650724,Regions near a metropolitan area
+BEL,BE322,Arr. Charleroi,3,January to August,3223.75,7.700659170221025,Metropolitan region
+BEL,BE323,Arr. Mons,3,January to August,1919.25,23.12101081151492,Regions near a metropolitan area
+BEL,BE324,Arr. Mouscron,3,January to August,586.75,6.007669365147006,Regions near a metropolitan area
+BEL,BE325,Arr. Soignies,3,January to August,1330.5,8.981585869973685,Regions near a metropolitan area
+BEL,BE326,Arr. Thuin,3,January to August,1235.75,1.557758446287672,Regions near a metropolitan area
+BEL,BE327,Arr. Tournai,3,January to August,1170.25,2.285836359752191,Regions near a metropolitan area
+BEL,BE331,Arr. Huy,3,January to August,817,1.835985312117505,Regions far from a metropolitan area
+BEL,BE332,Arr. Liège,3,January to August,4671,13.65874545065298,Metropolitan region
+BEL,BE334,Arr. Waremme,3,January to August,542.5,10.41474654377881,Metropolitan region
+BEL,BE335,Arr. Verviers - communes francophones,3,January to August,1410,12.69503546099291,Regions near a metropolitan area
+BEL,BE336,Bezirk Verviers - Deutschsprachige Gemeinschaft,3,January to August,512.25,6.002928257686668,Regions near a metropolitan area
+BEL,BE341,Arr. Arlon,3,January to August,354.75,5.426356589147297,Regions far from a metropolitan area
+BEL,BE342,Arr. Bastogne,3,January to August,292,11.98630136986301,Regions far from a metropolitan area
+BEL,BE343,Arr. Marche-en-Famenne,3,January to August,392.75,5.410566518141313,Regions near a metropolitan area
+BEL,BE344,Arr. Neufchâteau,3,January to August,437.75,0.5139920045688084,Regions far from a metropolitan area
+BEL,BE345,Arr. Virton,3,January to August,358.75,-1.324041811846688,Regions far from a metropolitan area
+BEL,BE351,Arr. Dinant,3,January to August,809.25,-2.996601791782516,Regions near a metropolitan area
+BEL,BE352,Arr. Namur,3,January to August,2125.5,13.05575158786168,Regions near a metropolitan area
+BEL,BE353,Arr. Philippeville,3,January to August,505.5,10.18793273986152,Regions near a metropolitan area
+CAN,CA10,Newfoundland and Labrador,2,January to August,3425,6.13138686131387,NA
+CAN,CA11,Prince Edward Island,2,January to August,831.25,11.87969924812029,NA
+CAN,CA12,Nova Scotia,2,January to August,6340,4.574132492113558,NA
+CAN,CA13,New Brunswick,2,January to August,5025,12.43781094527363,NA
+CAN,CA24,Quebec,2,January to August,43863.75,12.40489014277164,NA
+CAN,CA35,Ontario,2,January to August,68851.25,10.47003503930575,NA
+CAN,CA46,Manitoba,2,January to August,7225,3.598615916955028,NA
+CAN,CA47,Saskatchewan,2,January to August,6268.75,5.603190428713867,NA
+CAN,CA48,Alberta,2,January to August,16722.5,11.43668709822097,NA
+CAN,CA59,British Columbia,2,January to August,25180,7.347100873709289,NA
+CAN,CA60,Yukon,2,January to August,NA,NA,NA
+CAN,CA61,Northwest Territories,2,January to August,150,16.66666666666668,NA
+CAN,CA62,Nunavut,2,January to August,92.5,13.51351351351351,NA
+CHE,CH01,Lake Geneva Region,2,January to August,7815.75,8.422096407894308,NA
+CHE,CH011,Vaud,3,January to August,3776,5.508474576271194,Metropolitan region
+CHE,CH012,Valais,3,January to August,1850.75,4.9844657571255,Regions far from a metropolitan area
+CHE,CH013,Genève,3,January to August,2189,16.35449977158521,Metropolitan region
+CHE,CH02,Espace Mittelland,2,January to August,10801.25,0.006943640782308691,NA
+CHE,CH021,Bern,3,January to August,6367,-2.450133500863827,Metropolitan region
+CHE,CH022,Freiburg,3,January to August,1354.25,6.627284474801543,Regions near a metropolitan area
+CHE,CH023,Solothurn,3,January to August,1578.25,0.3643275780136124,Regions near a metropolitan area
+CHE,CH024,Neuchâtel,3,January to August,1055.25,0.9239516702203243,Regions near a metropolitan area
+CHE,CH025,Jura,3,January to August,446.5,11.53415453527435,Regions far from a metropolitan area
+CHE,CH03,Northwestern Switzerland,2,January to August,6263.25,3.237137268989732,NA
+CHE,CH031,Basel-Stadt,3,January to August,1389.25,0.1979485333813313,Metropolitan region
+CHE,CH032,Basel-Landschaft,3,January to August,1635,5.321100917431187,Metropolitan region
+CHE,CH033,Aargau,3,January to August,3239,3.488731089842534,Regions near a metropolitan area
+CHE,CH04,Zurich,2,January to August,7423.75,-1.518774204411522,NA
+CHE,CH040,Zürich,3,January to August,7423.75,-1.518774204411522,Metropolitan region
+CHE,CH05,Eastern Switzerland,2,January to August,6308.5,0.8163588808750122,NA
+CHE,CH051,Glarus,3,January to August,260.25,3.362151777137368,Regions far from a metropolitan area
+CHE,CH052,Schaffhausen,3,January to August,511.5,1.466275659824046,Regions near a metropolitan area
+CHE,CH053,Appenzell Ausserrhoden,3,January to August,325.5,1.0752688172043,Regions far from a metropolitan area
+CHE,CH054,Appenzell Innerrhoden,3,January to August,90.25,-2.493074792243766,Regions far from a metropolitan area
+CHE,CH055,St. Gallen,3,January to August,2603.5,4.858843864029194,Regions far from a metropolitan area
+CHE,CH056,Graubünden,3,January to August,1155.5,-2.553007356122894,Regions far from a metropolitan area
+CHE,CH057,Thurgau,3,January to August,1362,-4.625550660792954,Regions near a metropolitan area
+CHE,CH06,Central Switzerland,2,January to August,3910.25,0.4795089828016019,NA
+CHE,CH061,Luzern,3,January to August,2040.75,-2.19282126669117,Regions far from a metropolitan area
+CHE,CH062,Uri,3,January to August,225.5,-12.63858093126386,Regions far from a metropolitan area
+CHE,CH063,Schwyz,3,January to August,727.5,12.85223367697594,Regions near a metropolitan area
+CHE,CH064,Obwalden,3,January to August,175.5,20.22792022792024,Regions far from a metropolitan area
+CHE,CH065,Nidwalden,3,January to August,212,-4.245283018867929,Regions far from a metropolitan area
+CHE,CH066,Zug,3,January to August,529,-5.2930056710775,Regions near a metropolitan area
+CHE,CH07,Ticino,2,January to August,2130.5,16.92091058436986,NA
+CHE,CH070,Ticino,3,January to August,2130.5,16.92091058436986,Regions far from a metropolitan area
+CHL,CL01,Tarapacá,2,January to August,971.5,26.81420483787957,NA
+CHL,CL011,Iquique,3,January to August,940.5,26.20946305156831,Regions far from a metropolitan area
+CHL,CL012,Tamarugal,3,January to August,31,45.16129032258065,Regions far from a metropolitan area
+CHL,CL02,Antofagasta,2,January to August,2077.5,25.1985559566787,NA
+CHL,CL021,Antofagasta,3,January to August,1524.25,11.98950303427915,Metropolitan region
+CHL,CL022,El Loa,3,January to August,465.5,72.71750805585393,Regions far from a metropolitan area
+CHL,CL023,Tocopilla,3,January to August,87.75,2.564102564102555,Regions far from a metropolitan area
+CHL,CL03,Atacama,2,January to August,1016.25,7.158671586715859,NA
+CHL,CL031,Copiapó,3,January to August,668.5,6.806282722513091,Regions far from a metropolitan area
+CHL,CL032,Chañaral,3,January to August,47.75,31.93717277486912,Regions far from a metropolitan area
+CHL,CL033,Huasco,3,January to August,300,4.000000000000004,Regions far from a metropolitan area
+CHL,CL04,Coquimbo,2,January to August,2950.5,6.388747669886463,NA
+CHL,CL041,Elqui,3,January to August,1925.5,6.102311088029078,Metropolitan region
+CHL,CL042,Choapa,3,January to August,342.25,1.09569028487948,Regions far from a metropolitan area
+CHL,CL043,Limarí,3,January to August,682.75,9.849871841816181,Regions far from a metropolitan area
+CHL,CL05,Valparaíso,2,January to August,8787.25,11.32037895814959,NA
+CHL,CL051,Valparaíso,3,January to August,4133.25,6.647311437730608,Metropolitan region
+CHL,CL052,Isla de Pascua,3,January to August,19.75,-18.9873417721519,Regions far from a metropolitan area
+CHL,CL053,Los Andes,3,January to August,364.5,28.12071330589849,Regions far from a metropolitan area
+CHL,CL054,Petorca,3,January to August,250.5,29.34131736526946,Regions far from a metropolitan area
+CHL,CL055,Quillota,3,January to August,1023.5,16.26770884220812,Regions far from a metropolitan area
+CHL,CL056,San Antonio,3,January to August,834,13.30935251798562,Regions far from a metropolitan area
+CHL,CL057,San Felipe de Aconcagua,3,January to August,734,16.07629427792916,Regions far from a metropolitan area
+CHL,CL058,Marga Marga,3,January to August,1427.75,10.66363158816319,Metropolitan region
+CHL,CL06,O'Higgins,2,January to August,3691.75,17.28854879122368,NA
+CHL,CL061,Cachapoal,3,January to August,2541.25,20.88539104771274,Metropolitan region
+CHL,CL062,Cardenal Caro,3,January to August,141,28.36879432624113,Regions far from a metropolitan area
+CHL,CL063,Colchagua,3,January to August,1009.5,6.686478454680533,Regions far from a metropolitan area
+CHL,CL07,Maule,2,January to August,4483,7.026544724514827,NA
+CHL,CL071,Talca,3,January to August,1779,3.147835862844284,Metropolitan region
+CHL,CL072,Cauquenes,3,January to August,276.75,14.18247515808491,Regions far from a metropolitan area
+CHL,CL073,Curicó,3,January to August,1195,6.94560669456068,Regions far from a metropolitan area
+CHL,CL074,Linares,3,January to August,1232.25,11.09758571718402,Regions near a metropolitan area
+CHL,CL08,Bío-Bío,2,January to August,6601.75,7.350323777786194,NA
+CHL,CL081,Concepción,3,January to August,4302.25,6.572142483584176,Metropolitan region
+CHL,CL082,Arauco,3,January to August,585.25,15.67706108500642,Regions far from a metropolitan area
+CHL,CL083,Biobío,3,January to August,1714.25,6.460551261484615,NA
+CHL,CL09,Araucanía,2,January to August,4489.25,2.645207996881438,NA
+CHL,CL091,Cautín,3,January to August,3542.25,3.013621285905854,Metropolitan region
+CHL,CL092,Malleco,3,January to August,947,1.26715945089757,Regions far from a metropolitan area
+CHL,CL10,Los Lagos,2,January to August,3496.75,3.6390934439122,NA
+CHL,CL101,Llanquihue,3,January to August,1555,3.858520900321549,Metropolitan region
+CHL,CL102,Chiloé,3,January to August,750.75,-0.366300366300365,Regions far from a metropolitan area
+CHL,CL103,Osorno,3,January to August,1142.5,5.295404814004368,Regions far from a metropolitan area
+CHL,CL104,Palena,3,January to August,48.5,19.58762886597938,Regions far from a metropolitan area
+CHL,CL11,Aysén,2,January to August,340.5,6.901615271659334,NA
+CHL,CL111,Coyhaique,3,January to August,221,2.262443438914019,Regions far from a metropolitan area
+CHL,CL112,Aysén,3,January to August,90.5,18.23204419889504,Regions far from a metropolitan area
+CHL,CL113,Capitán Prat,3,January to August,8,12.5,Regions far from a metropolitan area
+CHL,CL114,General Carrera,3,January to August,21,4.761904761904767,Regions far from a metropolitan area
+CHL,CL12,Magallanes,2,January to August,729.75,2.911956149366213,NA
+CHL,CL121,Magallanes,3,January to August,617.25,0.7695423248278654,Regions far from a metropolitan area
+CHL,CL122,Antártica Chilena,3,January to August,1,100,Regions far from a metropolitan area
+CHL,CL123,Tierra del Fuego,3,January to August,15,-20,Regions far from a metropolitan area
+CHL,CL124,Última Esperanza,3,January to August,96.5,19.17098445595855,Regions far from a metropolitan area
+CHL,CL13,Santiago Metropolitan,2,January to August,27715.75,35.63767893706646,NA
+CHL,CL131,Santiago,3,January to August,22675.75,35.75295194205263,Metropolitan region
+CHL,CL132,Cordillera,3,January to August,1620.25,39.29949081931801,Metropolitan region
+CHL,CL133,Chacabuco,3,January to August,305,42.62295081967213,Metropolitan region
+CHL,CL134,Maipo,3,January to August,1498.5,33.46680013346679,Metropolitan region
+CHL,CL135,Melipilla,3,January to August,812.25,21.76054170514004,Regions near a metropolitan area
+CHL,CL136,Talagante,3,January to August,804,40.42288557213931,Metropolitan region
+CHL,CL14,Los Ríos,2,January to August,1798.25,3.711942165994708,NA
+CHL,CL141,Valdivia,3,January to August,1438.25,2.90283330436294,Regions far from a metropolitan area
+CHL,CL142,Ranco,3,January to August,360,6.944444444444442,Regions far from a metropolitan area
+CHL,CL15,Arica y Parinacota,2,January to August,888.75,21.96905766526021,NA
+CHL,CL151,Arica,3,January to August,886.75,21.79306456160135,Regions far from a metropolitan area
+CHL,CL152,Parinacota,3,January to August,2,100,Regions far from a metropolitan area
+CHL,CL16,Ñuble,2,January to August,2193.75,8.581196581196583,NA
+CHL,CL161,Diguillín,3,January to August,1633,5.021432945499083,Regions far from a metropolitan area
+CHL,CL162,Itata,3,January to August,187.25,15.35380507343125,Regions far from a metropolitan area
+CHL,CL163,Punilla,3,January to August,373.5,20.74966532797857,Regions far from a metropolitan area
+COL,CO05,Antioquia,2,January to August,21867.25,14.49084818621456,NA
+COL,CO08,Atlántico,2,January to August,8303,62.64000963507166,NA
+COL,CO11,Bogotá Capital District,2,January to August,21882.5,33.44910316462928,NA
+COL,CO13,Bolívar,2,January to August,5682.75,53.74598565835203,NA
+COL,CO15,Boyacá,2,January to August,4467.25,2.635849795735634,NA
+COL,CO17,Caldas,2,January to August,4019.25,2.307644461031289,NA
+COL,CO18,Caquetá,2,January to August,1214.75,19.86005350895246,NA
+COL,CO19,Cauca,2,January to August,4108.25,13.16253879389033,NA
+COL,CO20,Cesar,2,January to August,3027,28.11364387182029,NA
+COL,CO23,Córdoba (CO),2,January to August,4666.25,55.97106884543264,NA
+COL,CO25,Cundinamarca,2,January to August,8937.75,17.23308438924784,NA
+COL,CO27,Chocó,2,January to August,954,28.40670859538783,NA
+COL,CO41,Huila,2,January to August,3910.25,8.20280033245957,NA
+COL,CO44,La Guajira,2,January to August,1638,32.11233211233211,NA
+COL,CO47,Magdalena,2,January to August,3611,45.41678205483246,NA
+COL,CO50,Meta,2,January to August,3212,12.359900373599,NA
+COL,CO52,Nariño,2,January to August,4837.25,22.30089410305443,NA
+COL,CO54,Norte de Santander,2,January to August,5016.25,24.69474208821332,NA
+COL,CO63,Quindio,2,January to August,2588.75,-1.419604056011592,NA
+COL,CO66,Risaralda,2,January to August,4032,5.605158730158721,NA
+COL,CO68,Santander,2,January to August,7335.75,21.07828102102716,NA
+COL,CO70,Sucre,2,January to August,2607.25,33.20548470610796,NA
+COL,CO73,Tolima,2,January to August,5650,1.946902654867255,NA
+COL,CO76,Valle del Cauca,2,January to August,17893.75,16.81173594132028,NA
+COL,CO81,Arauca,2,January to August,732.5,10.71672354948805,NA
+COL,CO85,Casanare,2,January to August,945.75,11.44594237377743,NA
+COL,CO86,Putumayo,2,January to August,851.75,33.13765776342823,NA
+COL,CO88,San Andrés,2,January to August,186,13.97849462365592,NA
+COL,CO91,Amazonas,2,January to August,131.5,140.3041825095057,NA
+COL,CO94,Guainía,2,January to August,86,11.62790697674419,NA
+COL,CO95,Guaviare,2,January to August,195.25,8.066581306017916,NA
+COL,CO97,Vaupés,2,January to August,65.25,-8.045977011494255,NA
+COL,CO99,Vichada,2,January to August,145,2.068965517241383,NA
+CZE,CZ01,Prague,2,January to August,8248.75,0.9728746779815056,NA
+CZE,CZ010,Prague,3,January to August,8248.75,0.9728746779815056,Metropolitan region
+CZE,CZ02,Central Bohemian Region,2,January to August,8950.5,1.245740461426736,NA
+CZE,CZ020,Central Bohemia,3,January to August,8950.5,1.245740461426736,Metropolitan region
+CZE,CZ03,Southwest,2,January to August,8697,1.391284350925615,NA
+CZE,CZ031,South Bohemia,3,January to August,4470.25,2.880152116771995,Regions far from a metropolitan area
+CZE,CZ032,Plzen,3,January to August,4226.75,-0.1833560063878914,Metropolitan region
+CZE,CZ04,Northwest,2,January to August,8484.5,0.9723613648417784,NA
+CZE,CZ041,Karlovy Vary,3,January to August,2271,4.623513870541607,Regions far from a metropolitan area
+CZE,CZ042,Ústí nad Labem,3,January to August,6213.5,-0.3621147501408184,Regions far from a metropolitan area
+CZE,CZ05,Northeast,2,January to August,10745.25,0.3140922733300799,NA
+CZE,CZ051,Liberec,3,January to August,3107.5,-0.595333869670156,Metropolitan region
+CZE,CZ052,Hradec Králové,3,January to August,3954,0.07587253414265138,Regions far from a metropolitan area
+CZE,CZ053,Pardubice,3,January to August,3683.75,1.336952833389882,Regions far from a metropolitan area
+CZE,CZ06,Southeast,2,January to August,11806.75,0.179981790077699,NA
+CZE,CZ063,Vysocina,3,January to August,3564.75,1.297426186969641,Regions far from a metropolitan area
+CZE,CZ064,South Moravia,3,January to August,8242,-0.3033244358165543,Metropolitan region
+CZE,CZ07,Central Moravia,2,January to August,8928.5,1.887215097720785,NA
+CZE,CZ071,Olomouc,3,January to August,4671.5,0.3317992079631793,Regions far from a metropolitan area
+CZE,CZ072,Zlín,3,January to August,4257,3.594080338266381,Regions far from a metropolitan area
+CZE,CZ08,Moravia-Silesia,2,January to August,9147.25,3.834485774413077,NA
+CZE,CZ080,Moravia-Silesia,3,January to August,9147.25,3.834485774413077,Metropolitan region
+DEU,DE1,Baden-Württemberg,2,January to August,73712.5,1.891809394607424,NA
+DEU,DE2,Bavaria,2,January to August,89447.75,3.099295398710411,NA
+DEU,DE3,Berlin,2,January to August,23427.25,2.316746523813085,NA
+DEU,DE4,Brandenburg,2,January to August,21521,5.162399516751082,NA
+DEU,DE5,Bremen,2,January to August,5255.75,3.810112733672644,NA
+DEU,DE6,Hamburg,2,January to August,11866.25,2.854735067944803,NA
+DEU,DE7,Hesse,2,January to August,44390.5,0.7039794550635747,NA
+DEU,DE8,Mecklenburg-Vorpommern,2,January to August,14299,0.6573886285754282,NA
+DEU,DE9,Lower Saxony,2,January to August,63541,0.8876158700681369,NA
+DEU,DEA,North Rhine-Westphalia,2,January to August,139424.25,0.5743262022209095,NA
+DEU,DEB,Rhineland-Palatinate,2,January to August,31964,-0.6726317106745094,NA
+DEU,DEC,Saarland,2,January to August,9041.5,-1.354863684123209,NA
+DEU,DED,Saxony,2,January to August,37062.5,-0.6920741989881907,NA
+DEU,DEE,Saxony-Anhalt,2,January to August,22029.25,-1.231317452931902,NA
+DEU,DEF,Schleswig-Holstein,2,January to August,23495.5,-0.8193058245195894,NA
+DEU,DEG,Thuringia,2,January to August,19689.25,-2.413753698083976,NA
+DNK,DK01,Capital City Region,2,January to August,10427.5,-1.15559817789499,NA
+DNK,DK011,City of Copenhagen,3,January to August,3564.75,-6.220632582930074,Metropolitan region
+DNK,DK012,Copenhagen suburbs,3,January to August,3453,1.505936866492896,Metropolitan region
+DNK,DK013,North Zealand,3,January to August,3014.5,2.106485320948748,Metropolitan region
+DNK,DK014,Bornholm,3,January to August,395.25,-3.605313092979123,Regions far from a metropolitan area
+DNK,DK02,Zealand,2,January to August,6100,2.000000000000002,NA
+DNK,DK021,East Zealand,3,January to August,1469.5,3.43654304185097,Metropolitan region
+DNK,DK022,West and South Zealand,3,January to August,4630.5,1.544109707375019,Regions near a metropolitan area
+DNK,DK03,Southern Denmark,2,January to August,8223.75,-1.565587475300201,NA
+DNK,DK031,Fyn,3,January to August,3423.25,-2.89929160885124,Metropolitan region
+DNK,DK032,South Jutland,3,January to August,4800.5,-0.6145193209040722,Regions near a metropolitan area
+DNK,DK04,Central Jutland,2,January to August,7667.75,-1.274819862410748,NA
+DNK,DK041,West Jutland,3,January to August,2696.75,3.124130898303523,Regions near a metropolitan area
+DNK,DK042,East Jutland,3,January to August,4971,-3.661235163950916,Metropolitan region
+DNK,DK05,Northern Jutland,2,January to August,4024,-0.7703777335984041,NA
+DNK,DK050,North Jutland,3,January to August,4024,-0.7703777335984041,Metropolitan region
+ESP,ES11,Galicia,2,January to August,21672.25,0.2987691633309808,NA
+ESP,ES111,La Corunna,3,January to August,8628.25,2.523686726740659,Metropolitan region
+ESP,ES112,Lugo,3,January to August,3429,-1.049868766404205,Regions far from a metropolitan area
+ESP,ES113,Orense,3,January to August,3213.25,1.797245779195511,Regions far from a metropolitan area
+ESP,ES114,Pontevedra,3,January to August,6401.75,-2.745343070254225,Metropolitan region
+ESP,ES12,Asturias,2,January to August,8860,8.069977426636576,NA
+ESP,ES120,Asturias,3,January to August,8860,8.069977426636576,Metropolitan region
+ESP,ES13,Cantabria,2,January to August,4087.25,7.162517585173411,NA
+ESP,ES130,Cantabria,3,January to August,4087.25,7.162517585173411,Metropolitan region
+ESP,ES21,Basque Country,2,January to August,14541,10.061206244412359,NA
+ESP,ES211,Araba/Álava,3,January to August,1829.25,16.27716277162772,Metropolitan region
+ESP,ES212,Gipuzkoa,3,January to August,4663.75,7.0597694987939,Regions near a metropolitan area
+ESP,ES213,Biscay,3,January to August,8048,10.38767395626243,Metropolitan region
+ESP,ES22,Navarra,2,January to August,3915.5,15.92389222321542,NA
+ESP,ES220,Navarre,3,January to August,3915.5,15.92389222321542,Metropolitan region
+ESP,ES23,La Rioja,2,January to August,2089,17.08951651507899,NA
+ESP,ES230,La Rioja,3,January to August,2089,17.08951651507899,Regions far from a metropolitan area
+ESP,ES24,Aragon,2,January to August,9475.5,12.26848187430742,NA
+ESP,ES241,Huesca,3,January to August,1727.25,2.011868577218112,Regions far from a metropolitan area
+ESP,ES242,Teruel,3,January to August,1172.25,5.864789933887815,Regions far from a metropolitan area
+ESP,ES243,Saragossa,3,January to August,6576,16.11922141119222,Metropolitan region
+ESP,ES30,Madrid,2,January to August,31629,53.09051819532706,NA
+ESP,ES300,Madrid,3,January to August,31629,53.09051819532706,Metropolitan region
+ESP,ES41,Castile and León,2,January to August,19713,24.53710749251763,NA
+ESP,ES411,Ávila,3,January to August,1417,23.99435426958363,Regions far from a metropolitan area
+ESP,ES412,Burgos,3,January to August,2671.5,16.03967808347371,Regions far from a metropolitan area
+ESP,ES413,León,3,January to August,4198.25,22.8130768772703,Regions far from a metropolitan area
+ESP,ES414,Palencia,3,January to August,1462.25,9.010087194392202,Regions near a metropolitan area
+ESP,ES415,Salamanca,3,January to August,2723.5,41.28878281622912,Regions far from a metropolitan area
+ESP,ES416,Segovia,3,January to August,1169.75,61.48749732848899,Regions far from a metropolitan area
+ESP,ES417,Soria,3,January to August,787,41.29606099110546,Regions far from a metropolitan area
+ESP,ES418,Valladolid,3,January to August,3380.75,26.8357612955705,Metropolitan region
+ESP,ES419,Zamora,3,January to August,1903,-5.307409353652126,Regions far from a metropolitan area
+ESP,ES42,Castile-La Mancha,2,January to August,13494.75,38.89105022323496,NA
+ESP,ES421,Albacete,3,January to August,2543,50.45222178529296,Regions far from a metropolitan area
+ESP,ES422,Ciudad Real,3,January to August,3612,51.66112956810631,Regions far from a metropolitan area
+ESP,ES423,Cuenca,3,January to August,1675.5,18.65114891077291,Regions far from a metropolitan area
+ESP,ES424,Guadalajara,3,January to August,1410,40.99290780141844,Regions near a metropolitan area
+ESP,ES425,Toledo,3,January to August,4254.25,28.36575189516366,Regions near a metropolitan area
+ESP,ES43,Extremadura,2,January to August,7832.5,11.95659112671561,NA
+ESP,ES431,Badajoz,3,January to August,4676.5,6.938950069496408,Regions far from a metropolitan area
+ESP,ES432,Cáceres,3,January to August,3156,19.35994930291509,Regions far from a metropolitan area
+ESP,ES51,Catalonia,2,January to August,44143,27.13227465283283,NA
+ESP,ES511,Barcelona,3,January to August,32135.5,33.80529321155732,Metropolitan region
+ESP,ES512,Gerona,3,January to August,4319.25,9.857035364936051,Regions far from a metropolitan area
+ESP,ES513,Lérida,3,January to August,2873,10.54646710755307,Regions far from a metropolitan area
+ESP,ES514,Tarragona,3,January to August,4815.25,7.969471990031662,Regions far from a metropolitan area
+ESP,ES52,Valencia,2,January to August,30106,8.247525410217227,NA
+ESP,ES521,Alicante,3,January to August,10793.75,9.720903300521133,Metropolitan region
+ESP,ES522,Castellón,3,January to August,3616.75,4.569019147024256,Regions far from a metropolitan area
+ESP,ES523,Valencia,3,January to August,15695.5,8.081934312382533,Metropolitan region
+ESP,ES53,Balearic Islands,2,January to August,5554.25,1.651888193725526,NA
+ESP,ES531,Eivissa y Formentera,3,January to August,583,-1.372212692967412,Regions far from a metropolitan area
+ESP,ES532,Mallorca,3,January to August,4544.75,2.557896473953458,Metropolitan region
+ESP,ES533,Menorca,3,January to August,426.5,-4.1031652989449,Regions far from a metropolitan area
+ESP,ES61,Andalusia,2,January to August,48439.75,5.074861038713041,NA
+ESP,ES611,Almería,3,January to August,3586.5,2.160881081834654,Regions far from a metropolitan area
+ESP,ES612,Cádiz,3,January to August,6845.25,4.846426354041133,Regions near a metropolitan area
+ESP,ES613,Cordoba,3,January to August,5334.75,3.060124654388674,Regions near a metropolitan area
+ESP,ES614,Granada,3,January to August,5535.25,11.10609276907095,Metropolitan region
+ESP,ES615,Huelva,3,January to August,3088.25,-0.5909495669068288,Regions far from a metropolitan area
+ESP,ES616,Jaén,3,January to August,4561.75,-0.8932975283608258,Regions far from a metropolitan area
+ESP,ES617,Málaga,3,January to August,8754,9.629883481836865,Metropolitan region
+ESP,ES618,Seville,3,January to August,10734,4.713992919694432,Metropolitan region
+ESP,ES62,Murcia,2,January to August,7755.75,4.090513489991299,NA
+ESP,ES620,Murcia,3,January to August,7755.75,4.090513489991299,Metropolitan region
+ESP,ES63,Ceuta,2,January to August,360,13.33333333333333,NA
+ESP,ES630,Ceuta,3,January to August,360,13.33333333333333,Regions far from a metropolitan area
+ESP,ES64,Melilla,2,January to August,340,7.647058823529407,NA
+ESP,ES640,Melilla,3,January to August,340,7.647058823529407,Regions far from a metropolitan area
+ESP,ES70,Canary Islands,2,January to August,10630,5.211665098777041,NA
+ESP,ES703,El Hierro,3,January to August,62.5,-20,Regions far from a metropolitan area
+ESP,ES704,Fuerteventura,3,January to August,306.75,-8.068459657701709,Regions far from a metropolitan area
+ESP,ES705,Gran Canaria,3,January to August,4433.5,7.161384910341706,Metropolitan region
+ESP,ES706,La Gomera,3,January to August,139,-29.49640287769785,Regions far from a metropolitan area
+ESP,ES707,La Palma,3,January to August,538,-3.159851301115246,Regions far from a metropolitan area
+ESP,ES708,Lanzarote,3,January to August,510.5,4.603330068560241,Regions far from a metropolitan area
+ESP,ES709,Tenerife,3,January to August,4639.75,6.665229807640505,Metropolitan region
+EST,EE00,Estonia,2,January to August,10501.75,0.4118361225510014,NA
+FIN,FI19,Western Finland,2,January to August,9687,-0.8361721895323582,NA
+FIN,FI193,Central Finland,3,January to August,1941.75,-1.480623149221061,Regions far from a metropolitan area
+FIN,FI194,South Ostrobothnia,3,January to August,1461.75,-0.119719514280825,Regions far from a metropolitan area
+FIN,FI195,Ostrobothnia,3,January to August,1196,0.7525083612040184,Regions far from a metropolitan area
+FIN,FI196,Satakunta,3,January to August,1866,-1.071811361200425,Regions far from a metropolitan area
+FIN,FI197,Pirkanmaa,3,January to August,3221.5,-1.226136892751828,Metropolitan region
+FIN,FI1B,Helsinki-Uusimaa,2,January to August,8155.5,7.326344184905897,NA
+FIN,FI1B1,Helsinki-Uusimaa,3,January to August,8155.5,7.326344184905897,Metropolitan region
+FIN,FI1C,Southern Finland,2,January to August,8738.5,-0.8411054528809303,NA
+FIN,FI1C1,Finland Proper,3,January to August,3303.75,-6.409383276579639,Metropolitan region
+FIN,FI1C2,Tavastia Proper,3,January to August,1278.75,0.5669599217986265,Regions near a metropolitan area
+FIN,FI1C3,Päijät-Häme,3,January to August,1508.75,0.811930405965211,Regions far from a metropolitan area
+FIN,FI1C4,Kymenlaakso,3,January to August,1533.25,4.549160280450026,Regions far from a metropolitan area
+FIN,FI1C5,South Karelia,3,January to August,1114,4.398563734290839,Regions far from a metropolitan area
+FIN,FI1D,Eastern and Northern Finland,2,January to August,9523.25,0.5329063082456065,NA
+FIN,FI1D1,South Savonia,3,January to August,1440,-2.013888888888893,Regions far from a metropolitan area
+FIN,FI1D2,North Savonia,3,January to August,1940.75,1.301043411052438,Regions far from a metropolitan area
+FIN,FI1D3,North Karelia,3,January to August,1359.25,1.747287106860407,Regions far from a metropolitan area
+FIN,FI1D5,Central Ostrobothnia,3,January to August,437,8.695652173913038,Regions far from a metropolitan area
+FIN,FI1D7,Lapland,3,January to August,1422.25,-2.126911583758129,Regions far from a metropolitan area
+FIN,FI1D8,Kainuu,3,January to August,667,2.548725637181404,Regions far from a metropolitan area
+FIN,FI1D9,Pohjois-Pohjanmaa,3,January to August,2257,0.2658396101019145,Regions far from a metropolitan area
+FIN,FI20,Åland,2,January to August,176.75,0.7072135785006983,NA
+FIN,FI200,Åland,3,January to August,176.75,0.7072135785006983,Regions far from a metropolitan area
+FRA,FR1,Île-de-France,2,January to August,50966,21.93619275595495,NA
+FRA,FR101,Paris,3,January to August,11544.25,15.86720661801331,Metropolitan region
+FRA,FR102,Seine-et-Marne,3,January to August,5467.25,22.78567835749234,Metropolitan region
+FRA,FR103,Yvelines,3,January to August,5491.5,21.42401893835928,Metropolitan region
+FRA,FR104,Essonne,3,January to August,5169,20.15863803443607,Metropolitan region
+FRA,FR105,Hauts-de-Seine,3,January to August,6856,24.110268378063,Metropolitan region
+FRA,FR106,Seine-Saint-Denis,3,January to August,5177.5,27.37807822308063,Metropolitan region
+FRA,FR107,Val-de-Marne,3,January to August,6312.5,24.8,Metropolitan region
+FRA,FR108,Val-d'Oise,3,January to August,4948,25.22231204527081,Metropolitan region
+FRA,FRB,Centre - Val de Loire,2,January to August,17531,4.603274199988583,NA
+FRA,FRB01,Cher,3,January to August,2336.75,7.328554616454475,Regions far from a metropolitan area
+FRA,FRB02,Eure-et-Loir,3,January to August,2639,8.753315649867366,Regions far from a metropolitan area
+FRA,FRB03,Indre,3,January to August,1988.25,7.883817427385886,Regions far from a metropolitan area
+FRA,FRB04,Indre-et-Loire,3,January to August,4018.25,3.577427984819259,Metropolitan region
+FRA,FRB05,Loir-et-Cher,3,January to August,2413.5,5.98715558317795,Regions near a metropolitan area
+FRA,FRB06,Loiret,3,January to August,4135.25,-0.9733389758781241,Metropolitan region
+FRA,FRC,Bourgogne-Franche-Comté,2,January to August,20178.25,5.489821961765773,NA
+FRA,FRC11,Côte-d'Or,3,January to August,3724,5.827067669172936,Metropolitan region
+FRA,FRC12,Nièvre,3,January to August,1996.75,-2.241141855515216,Regions far from a metropolitan area
+FRA,FRC13,Saône-et-Loire,3,January to August,4222.25,3.807211794659238,Regions far from a metropolitan area
+FRA,FRC14,Yonne,3,January to August,2754.75,0.480987385425169,Regions far from a metropolitan area
+FRA,FRC21,Doubs,3,January to August,3180.75,5.10099819225025,Metropolitan region
+FRA,FRC22,Jura,3,January to August,1648.5,9.91810737033667,Regions near a metropolitan area
+FRA,FRC23,Haute-Saône,3,January to August,1408,5.610795454545459,Regions near a metropolitan area
+FRA,FRC24,Territoire de Belfort,3,January to August,1243.25,28.69495274482203,Regions near a metropolitan area
+FRA,FRD,Normandy,2,January to August,22401.5,3.72073298663036,NA
+FRA,FRD11,Calvados,3,January to August,5105,1.292850146914781,Metropolitan region
+FRA,FRD12,Manche,3,January to August,3697,2.867189613199894,Regions far from a metropolitan area
+FRA,FRD13,Orne,3,January to August,2115.5,1.016308201370841,Regions near a metropolitan area
+FRA,FRD21,Eure,3,January to August,2968.5,10.52720229071922,Regions near a metropolitan area
+FRA,FRD22,Seine-Maritime,3,January to August,8515.5,3.845928013622224,Metropolitan region
+FRA,FRE,Hauts-de-France,2,January to August,37113.25,6.810909850255631,NA
+FRA,FRE11,Nord,3,January to August,15677.25,5.66266405141207,Metropolitan region
+FRA,FRE12,Pas-de-Calais,3,January to August,9546.5,2.477347719059342,Regions near a metropolitan area
+FRA,FRE21,Aisne,3,January to August,3641.5,11.35521076479473,Regions near a metropolitan area
+FRA,FRE22,Oise,3,January to August,4048,17.53952569169961,Regions far from a metropolitan area
+FRA,FRE23,Somme,3,January to August,4200,6.666666666666665,Metropolitan region
+FRA,FRF,Grand Est,2,January to August,35589.25,13.83774594856593,NA
+FRA,FRF11,Bas-Rhin,3,January to August,6399.75,17.98898394468533,Metropolitan region
+FRA,FRF12,Haut-Rhin,3,January to August,4627,29.97622649665011,Metropolitan region
+FRA,FRF21,Ardennes,3,January to August,1779,1.349072512647553,Regions far from a metropolitan area
+FRA,FRF22,Aube,3,January to August,2060.25,2.900133478946732,Regions far from a metropolitan area
+FRA,FRF23,Marne,3,January to August,3841.25,10.25056947608201,Metropolitan region
+FRA,FRF24,Haute-Marne,3,January to August,1308.5,3.630110813909049,Regions far from a metropolitan area
+FRA,FRF31,Meurthe-et-Moselle,3,January to August,4758.75,9.860782768584198,Metropolitan region
+FRA,FRF32,Meuse,3,January to August,1272.25,16.87954411475732,Regions far from a metropolitan area
+FRA,FRF33,Moselle,3,January to August,6789.75,12.59619279060349,Regions near a metropolitan area
+FRA,FRF34,Vosges,3,January to August,2752.75,11.70647534283897,Regions far from a metropolitan area
+FRA,FRG,Pays de la Loire,2,January to August,23302,3.544760106428635,NA
+FRA,FRG01,Loire-Atlantique,3,January to August,8077.5,3.534509439801914,Metropolitan region
+FRA,FRG02,Maine-et-Loire,3,January to August,4965.75,4.113175250465684,Metropolitan region
+FRA,FRG03,Mayenne,3,January to August,1892,3.118393234672312,Regions near a metropolitan area
+FRA,FRG04,Sarthe,3,January to August,3838.25,2.181983977072877,Metropolitan region
+FRA,FRG05,Vendée,3,January to August,4528.5,4.272938058959919,Regions far from a metropolitan area
+FRA,FRH,Brittany,2,January to August,23701.25,0.8470017404145436,NA
+FRA,FRH01,Côtes-d'Armor,3,January to August,4707.5,1.051513542219862,Regions far from a metropolitan area
+FRA,FRH02,Finistère,3,January to August,7137.75,0.5358831564568733,Metropolitan region
+FRA,FRH03,Ille-et-Vilaine,3,January to August,6225.75,-0.5099787174235981,Metropolitan region
+FRA,FRH04,Morbihan,3,January to August,5630.25,2.570933795124542,Regions far from a metropolitan area
+FRA,FRI,Nouvelle-Aquitaine,2,January to August,43815.75,-0.7366072702167603,NA
+FRA,FRI11,Dordogne,3,January to August,3343.25,-4.703507066477231,Regions far from a metropolitan area
+FRA,FRI12,Gironde,3,January to August,9781.5,-0.3731534018299842,Metropolitan region
+FRA,FRI13,Landes,3,January to August,2692.75,-1.773280103982922,Regions far from a metropolitan area
+FRA,FRI14,Lot-et-Garonne,3,January to August,2616.5,1.31855532199503,Regions far from a metropolitan area
+FRA,FRI15,Pyrénées-Atlantiques,3,January to August,5094.25,-1.104186092162729,Metropolitan region
+FRA,FRI21,Corrèze,3,January to August,2222,-1.57515751575158,Regions far from a metropolitan area
+FRA,FRI22,Creuse,3,January to August,1192,1.51006711409396,Regions far from a metropolitan area
+FRA,FRI23,Haute-Vienne,3,January to August,3160,-5.506329113924046,Metropolitan region
+FRA,FRI31,Charente,3,January to August,2802.25,-2.863770184673031,Regions far from a metropolitan area
+FRA,FRI32,Charente-Maritime,3,January to August,5114.5,3.548733991592523,Regions far from a metropolitan area
+FRA,FRI33,Deux-Sèvres,3,January to August,2566,-1.247077162899457,Regions near a metropolitan area
+FRA,FRI34,Vienne,3,January to August,3230.75,1.926797183316564,Metropolitan region
+FRA,FRJ,Occitanie,2,January to August,39628.25,1.003703166301828,NA
+FRA,FRJ11,Aude,3,January to August,2844.75,2.680376131470252,Regions near a metropolitan area
+FRA,FRJ12,Gard,3,January to August,4670.75,4.672697104319434,Metropolitan region
+FRA,FRJ13,Hérault,3,January to August,7617.25,1.965932587219799,Metropolitan region
+FRA,FRJ14,Lozère,3,January to August,610.25,-2.990577632117986,Regions far from a metropolitan area
+FRA,FRJ15,Pyrénées-Orientales,3,January to August,3880,2.474226804123703,Metropolitan region
+FRA,FRJ21,Ariège,3,January to August,1157.25,3.866925901922658,Regions far from a metropolitan area
+FRA,FRJ22,Aveyron,3,January to August,2300,-1.521739130434785,Regions far from a metropolitan area
+FRA,FRJ23,Haute-Garonne,3,January to August,7185.25,0.6645558609651658,Metropolitan region
+FRA,FRJ24,Gers,3,January to August,1450.5,-0.3102378490175806,Regions far from a metropolitan area
+FRA,FRJ25,Lot,3,January to August,1421.75,2.197995428169519,Regions far from a metropolitan area
+FRA,FRJ26,Hautes-Pyrénées,3,January to August,1961,-0.8669046404895409,Regions near a metropolitan area
+FRA,FRJ27,Tarn,3,January to August,2831.5,-6.904467596680208,Regions far from a metropolitan area
+FRA,FRJ28,Tarn-et-Garonne,3,January to August,1698,0.2355712603062443,Regions near a metropolitan area
+FRA,FRK,Auvergne-Rhône-Alpes,2,January to August,46408.25,5.259301956009987,NA
+FRA,FRK11,Allier,3,January to August,3061.25,-3.503470804409958,Regions far from a metropolitan area
+FRA,FRK12,Cantal,3,January to August,1393,-2.153625269203163,Regions far from a metropolitan area
+FRA,FRK13,Haute-Loire,3,January to August,1536,-2.278645833333337,Regions near a metropolitan area
+FRA,FRK14,Puy-de-Dôme,3,January to August,4535.25,-1.306432941954683,Metropolitan region
+FRA,FRK21,Ain,3,January to August,2972.75,2.901353965183762,Regions near a metropolitan area
+FRA,FRK22,Ardèche,3,January to August,2303.5,7.09789450835685,Regions far from a metropolitan area
+FRA,FRK23,Drôme,3,January to August,3185.5,2.43289907392874,Regions far from a metropolitan area
+FRA,FRK24,Isère,3,January to August,5981.25,8.923719958202714,Metropolitan region
+FRA,FRK25,Loire,3,January to August,5378.5,4.843357813516769,Metropolitan region
+FRA,FRK26,Rhône,3,January to August,9557.25,10.43971853828245,Metropolitan region
+FRA,FRK27,Savoie,3,January to August,2580,6.821705426356584,Regions near a metropolitan area
+FRA,FRK28,Haute-Savoie,3,January to August,3924,9.607543323139645,Metropolitan region
+FRA,FRL,Provence-Alpes-Côte d’Azur,2,January to August,34664.5,2.040992946674547,NA
+FRA,FRL01,Alpes-de-Haute-Provence,3,January to August,1186.25,-0.4425711275026334,Regions far from a metropolitan area
+FRA,FRL02,Hautes-Alpes,3,January to August,1004.25,-1.817276574558124,Regions far from a metropolitan area
+FRA,FRL03,Alpes-Maritimes,3,January to August,8219.5,-0.675223553744142,Metropolitan region
+FRA,FRL04,Bouches-du-Rhône,3,January to August,12733.75,6.237361342887993,Metropolitan region
+FRA,FRL05,Var,3,January to August,7575.5,0.27060920071282363,Metropolitan region
+FRA,FRL06,Vaucluse,3,January to August,3945.25,-0.7160509473417398,Regions far from a metropolitan area
+FRA,FRM,Corsica,2,January to August,2102.5,4.922711058263962,NA
+FRA,FRM01,Corse-du-Sud,3,January to August,985.5,9.690512430238464,Regions far from a metropolitan area
+FRA,FRM02,Haute-Corse,3,January to August,1117,0.71620411817368,Regions far from a metropolitan area
+FRA,FRY1,Guadeloupe,2,January to August,2192.5,7.594070695553024,NA
+FRA,FRY10,Guadeloupe,3,January to August,2192.5,7.594070695553024,Regions far from a metropolitan area
+FRA,FRY2,Martinique,2,January to August,2270,2.378854625550653,NA
+FRA,FRY20,Martinique,3,January to August,2270,2.378854625550653,Metropolitan region
+FRA,FRY3,French Guiana,2,January to August,629.75,-1.071853910281861,NA
+FRA,FRY30,French Guiana,3,January to August,629.75,-1.071853910281861,Regions far from a metropolitan area
+FRA,FRY4,La Réunion,2,January to August,3241.5,5.969458583988896,NA
+FRA,FRY40,La Réunion,3,January to August,3241.5,5.969458583988896,Regions near a metropolitan area
+FRA,FRY5,Mayotte,2,January to August,479,34.02922755741127,NA
+FRA,FRY50,Mayotte,3,January to August,479,34.02922755741127,Regions far from a metropolitan area
+GBR,UKC,North East England,2,January to August,18986.75,14.59043806865314,NA
+GBR,UKC11,Hartlepool and Stockton-on-Tees,3,January to August,1968.75,9.104761904761904,Metropolitan region
+GBR,UKC12,South Teesside,3,January to August,2052,20.22417153996101,Metropolitan region
+GBR,UKC13,Darlington,3,January to August,777.25,17.20810550016083,Regions near a metropolitan area
+GBR,UKC14,Durham CC,3,January to August,3822.25,20.08633658185623,Regions near a metropolitan area
+GBR,UKC21,Northumberland,3,January to August,2484.75,5.362712546533865,Metropolitan region
+GBR,UKC22,Tyneside,3,January to August,5838.75,14.27103403982017,Metropolitan region
+GBR,UKC23,Sunderland,3,January to August,2043,15.0758688203622,Metropolitan region
+GBR,UKD,North West England,2,January to August,48455.75,17.42672438255521,NA
+GBR,UKD11,West Cumbria,3,January to August,1814,17.08930540242557,Regions far from a metropolitan area
+GBR,UKD12,East Cumbria,3,January to August,1955.5,25.28765021733572,Regions far from a metropolitan area
+GBR,UKD33,Manchester,3,January to August,2370.25,22.22339415673451,Metropolitan region
+GBR,UKD34,Greater Manchester South West,3,January to August,2873,18.58684302123217,Metropolitan region
+GBR,UKD35,Greater Manchester South East,3,January to August,3456.75,18.11672814059449,Metropolitan region
+GBR,UKD36,Greater Manchester North West,3,January to August,3960.75,15.8618948431484,Metropolitan region
+GBR,UKD37,Greater Manchester North East,3,January to August,4026.5,17.02471128771885,Metropolitan region
+GBR,UKD41,Blackburn with Darwen,3,January to August,875,11.77142857142857,Metropolitan region
+GBR,UKD42,Blackpool,3,January to August,1269.75,12.46308328411105,Metropolitan region
+GBR,UKD44,Lancaster and Wyre,3,January to August,2019,7.033184744923227,Regions near a metropolitan area
+GBR,UKD45,Mid Lancashire,3,January to August,2694.5,15.60586379662274,Metropolitan region
+GBR,UKD46,East Lancashire,3,January to August,2245.5,15.51992874638166,Regions far from a metropolitan area
+GBR,UKD47,Chorley and West Lancashire,3,January to August,1580.5,23.44194875039545,Regions far from a metropolitan area
+GBR,UKD61,Warrington,3,January to August,1325.5,13.8438325160317,Regions near a metropolitan area
+GBR,UKD62,Cheshire East,3,January to August,2689.5,19.79921918572225,Regions far from a metropolitan area
+GBR,UKD63,Cheshire West and Chester,3,January to August,2363.5,13.64501798180664,Metropolitan region
+GBR,UKD71,East Merseyside,3,January to August,3208,14.71321695760599,Metropolitan region
+GBR,UKD72,Liverpool,3,January to August,3052.25,18.89589646981735,Metropolitan region
+GBR,UKD73,Sefton,3,January to August,2193.5,23.13653977661272,Metropolitan region
+GBR,UKD74,Wirral,3,January to August,2482.5,20.20140986908359,Metropolitan region
+GBR,UKE,Yorkshire and The Humber,2,January to August,35557.5,13.45567039302538,NA
+GBR,UKE11,"Kingston upon Hull, City of",3,January to August,1738.75,10.13659237958304,Metropolitan region
+GBR,UKE12,East Riding of Yorkshire,3,January to August,2629.25,15.50822477892935,Metropolitan region
+GBR,UKE13,North and North East Lincolnshire,3,January to August,2413.75,1.336095287415851,Regions near a metropolitan area
+GBR,UKE21,York,3,January to August,1258.5,12.75327771156139,Regions near a metropolitan area
+GBR,UKE22,North Yorkshire CC,3,January to August,4410.75,14.47032817548035,Regions far from a metropolitan area
+GBR,UKE31,"Barnsley, Doncaster and Rotherham",3,January to August,5750.5,17.55499521780715,Metropolitan region
+GBR,UKE32,Sheffield,3,January to August,3423,16.53520303827052,Metropolitan region
+GBR,UKE41,Bradford,3,January to August,3062.5,16.24489795918367,Metropolitan region
+GBR,UKE42,Leeds,3,January to August,4579.25,11.0225473603756,Metropolitan region
+GBR,UKE44,Calderdale and Kirklees,3,January to August,3968.25,10.09891009891011,Metropolitan region
+GBR,UKE45,Wakefield,3,January to August,2323,16.83168316831683,Metropolitan region
+GBR,UKF,East Midlands,2,January to August,30703.25,14.64258669684806,NA
+GBR,UKF11,Derby,3,January to August,1608.25,21.68506140214519,Metropolitan region
+GBR,UKF12,East Derbyshire,3,January to August,2190.75,13.29453383544448,Regions near a metropolitan area
+GBR,UKF13,South and West Derbyshire,3,January to August,3380.5,18.4735985800917,Metropolitan region
+GBR,UKF14,Nottingham,3,January to August,1621.5,11.13166820844898,Metropolitan region
+GBR,UKF15,North Nottinghamshire,3,January to August,3333.25,10.76276906922673,Regions near a metropolitan area
+GBR,UKF16,South Nottinghamshire,3,January to August,2323.75,9.865519096288322,Metropolitan region
+GBR,UKF21,Leicester,3,January to August,1704.5,22.85127603402757,Metropolitan region
+GBR,UKF22,Leicestershire CC and Rutland,3,January to August,4484.5,17.58278514884604,Metropolitan region
+GBR,UKF24,West Northamptonshire,3,January to August,2238.25,20.22785658438513,Regions near a metropolitan area
+GBR,UKF25,North Northamptonshire,3,January to August,2108.5,16.38605643822624,Regions near a metropolitan area
+GBR,UKF30,Lincolnshire,3,January to August,5709.5,8.520886242227865,Regions near a metropolitan area
+GBR,UKG,West Midlands,2,January to August,37407,18.75584783596653,NA
+GBR,UKG11,"Herefordshire, County of",3,January to August,1453.75,9.716251074806536,Regions far from a metropolitan area
+GBR,UKG12,Worcestershire,3,January to August,4157.75,15.8799831639709,Regions near a metropolitan area
+GBR,UKG13,Warwickshire,3,January to August,3757.75,18.79449138447209,Metropolitan region
+GBR,UKG21,Telford and Wrekin,3,January to August,1023.25,18.54385536281455,Regions near a metropolitan area
+GBR,UKG22,Shropshire CC,3,January to August,2377.5,12.09253417455309,Regions near a metropolitan area
+GBR,UKG23,Stoke-on-Trent,3,January to August,1794.25,8.290372021736104,Metropolitan region
+GBR,UKG24,Staffordshire CC,3,January to August,5904.75,17.58330157923707,Metropolitan region
+GBR,UKG31,Birmingham,3,January to August,5750.75,25.40972916576099,Metropolitan region
+GBR,UKG32,Solihull,3,January to August,1406.25,25.93777777777777,Metropolitan region
+GBR,UKG33,Coventry,3,January to August,1920.5,19.2918510804478,Metropolitan region
+GBR,UKG36,Dudley,3,January to August,2182,18.19431714023832,Metropolitan region
+GBR,UKG37,Sandwell,3,January to August,2040.25,23.17118000245069,Metropolitan region
+GBR,UKG38,Walsall,3,January to August,1863.75,18.47082494969818,Metropolitan region
+GBR,UKG39,Wolverhampton,3,January to August,1774.5,24.42941673710905,Metropolitan region
+GBR,UKH,East of England,2,January to August,39145.75,14.15287738771132,NA
+GBR,UKH11,Peterborough,3,January to August,1086.25,8.722669735327958,Regions far from a metropolitan area
+GBR,UKH12,Cambridgeshire CC,3,January to August,3689,13.4995933857414,Regions near a metropolitan area
+GBR,UKH14,Suffolk,3,January to August,5327.5,13.88080713280151,Metropolitan region
+GBR,UKH15,Norwich and East Norfolk,3,January to August,2599.75,6.779498028656605,Metropolitan region
+GBR,UKH16,North and West Norfolk,3,January to August,2235.75,11.68511685116851,Regions near a metropolitan area
+GBR,UKH17,Breckland and South Norfolk,3,January to August,2041.25,8.36497244335579,Regions near a metropolitan area
+GBR,UKH21,Luton,3,January to August,1012.5,24.04938271604937,Regions near a metropolitan area
+GBR,UKH23,Hertfordshire,3,January to August,6543,20.78557236741556,Metropolitan region
+GBR,UKH24,Bedford,3,January to August,1001.5,19.9201198202696,Regions near a metropolitan area
+GBR,UKH25,Central Bedfordshire,3,January to August,1436.25,24.28198433420366,Regions near a metropolitan area
+GBR,UKH31,Southend-on-Sea,3,January to August,1348.5,10.71560993696701,Metropolitan region
+GBR,UKH32,Thurrock,3,January to August,839,20.97735399284863,Metropolitan region
+GBR,UKH34,Essex Haven Gateway,3,January to August,3667.75,5.2143684820394,Regions near a metropolitan area
+GBR,UKH35,West Essex,3,January to August,1906.75,17.58227350203225,Metropolitan region
+GBR,UKH36,Heart of Essex,3,January to August,2000,14.5,Metropolitan region
+GBR,UKH37,Essex Thames Gateway,3,January to August,2411,12.89921194525094,Metropolitan region
+GBR,UKI,Greater London,2,January to August,33503,27.60051338686087,NA
+GBR,UKI31,Camden and City of London,3,January to August,789,26.61596958174906,Metropolitan region
+GBR,UKI32,Westminster,3,January to August,734,33.92370572207084,Metropolitan region
+GBR,UKI33,Kensington & Chelsea and Hammersmith & Fulham,3,January to August,1183.75,28.40549102428722,Metropolitan region
+GBR,UKI34,Wandsworth,3,January to August,1043.75,20.33532934131737,Metropolitan region
+GBR,UKI41,Hackney and Newham,3,January to August,1617.75,38.89661566991192,Metropolitan region
+GBR,UKI42,Tower Hamlets,3,January to August,716.5,21.84228890439637,Metropolitan region
+GBR,UKI43,Haringey and Islington,3,January to August,1540,32.27272727272727,Metropolitan region
+GBR,UKI44,Lewisham and Southwark,3,January to August,1969.25,30.45575726799543,Metropolitan region
+GBR,UKI45,Lambeth,3,January to August,985.25,33.67165693986298,Metropolitan region
+GBR,UKI51,Bexley and Greenwich,3,January to August,2531.25,16.22716049382715,Metropolitan region
+GBR,UKI52,Barking & Dagenham and Havering,3,January to August,2455.5,20.9529627367135,Metropolitan region
+GBR,UKI53,Redbridge and Waltham Forest,3,January to August,2135.5,30.13345820650901,Metropolitan region
+GBR,UKI54,Enfield,3,January to August,1312,41.99695121951219,Metropolitan region
+GBR,UKI61,Bromley,3,January to August,1810,12.98342541436464,Metropolitan region
+GBR,UKI62,Croydon,3,January to August,1697,28.81555686505599,Metropolitan region
+GBR,UKI63,"Merton, Kingston upon Thames and Sutton",3,January to August,2621.5,20.35094411596414,Metropolitan region
+GBR,UKI71,Barnet,3,January to August,1603.75,31.37957911145752,Metropolitan region
+GBR,UKI72,Brent,3,January to August,1168.75,42.54545454545455,Metropolitan region
+GBR,UKI73,Ealing,3,January to August,1344,34.52380952380953,Metropolitan region
+GBR,UKI74,Harrow and Hillingdon,3,January to August,2364.75,31.85326144412728,Metropolitan region
+GBR,UKI75,Hounslow and Richmond upon Thames,3,January to August,1879.75,22.88868200558585,Metropolitan region
+GBR,UKJ,South East England,2,January to August,55375.75,14.878805253202,NA
+GBR,UKJ11,Berkshire,3,January to August,4250.75,20.14350408751398,Metropolitan region
+GBR,UKJ12,Milton Keynes,3,January to August,1200.5,20.78300708038317,Metropolitan region
+GBR,UKJ13,Buckinghamshire CC,3,January to August,2901,18.1316787314719,Regions near a metropolitan area
+GBR,UKJ14,Oxfordshire,3,January to August,3747,15.63917800907393,Regions far from a metropolitan area
+GBR,UKJ21,Brighton and Hove,3,January to August,1467.5,3.85008517887564,Metropolitan region
+GBR,UKJ22,East Sussex CC,3,January to August,4462,9.121470192738679,Regions near a metropolitan area
+GBR,UKJ25,West Surrey,3,January to August,4400,20.93181818181817,Metropolitan region
+GBR,UKJ26,East Surrey,3,January to August,2416,27.19370860927153,Metropolitan region
+GBR,UKJ27,West Sussex (South West),3,January to August,3899.75,9.878838387076105,Regions near a metropolitan area
+GBR,UKJ28,West Sussex (North East),3,January to August,2337.25,20.91132741469677,Regions near a metropolitan area
+GBR,UKJ31,Portsmouth,3,January to August,1213.25,-1.009684731094174,Metropolitan region
+GBR,UKJ32,Southampton,3,January to August,1264,11.155063291139239,Metropolitan region
+GBR,UKJ34,Isle of Wight,3,January to August,1212.5,8.206185567010316,Regions far from a metropolitan area
+GBR,UKJ35,South Hampshire,3,January to August,3058,13.60366252452583,Metropolitan region
+GBR,UKJ36,Central Hampshire,3,January to August,3810.75,13.15357869185856,Regions near a metropolitan area
+GBR,UKJ37,North Hampshire,3,January to August,1893.25,16.57203221972798,Regions near a metropolitan area
+GBR,UKJ41,Medway,3,January to August,1525.75,12.27265279370802,Metropolitan region
+GBR,UKJ43,Kent Thames Gateway,3,January to August,2155,21.25290023201856,Metropolitan region
+GBR,UKJ44,East Kent,3,January to August,4132,11.90706679574056,Regions far from a metropolitan area
+GBR,UKJ45,Mid Kent,3,January to August,1832.5,13.06957708049112,Regions far from a metropolitan area
+GBR,UKJ46,West Kent,3,January to August,2197,12.28948566226673,Metropolitan region
+GBR,UKK,South West England,2,January to August,38776,8.09779244893749,NA
+GBR,UKK11,"Bristol, City of",3,January to August,2309.75,5.898906808096105,Metropolitan region
+GBR,UKK12,"Bath and North East Somerset, North Somerset and South Gloucestershire",3,January to August,4249.75,12.45367374551445,Metropolitan region
+GBR,UKK13,Gloucestershire,3,January to August,4268.75,13.8272327964861,Regions near a metropolitan area
+GBR,UKK14,Swindon,3,January to August,1183.25,19.07880836678639,Regions near a metropolitan area
+GBR,UKK15,Wiltshire CC,3,January to August,3127.5,18.17745803357314,Regions near a metropolitan area
+GBR,UKK21,Bournemouth and Poole,3,January to August,2456,5.537459283387625,Metropolitan region
+GBR,UKK22,Dorset CC,3,January to August,3612.75,8.532281503010175,Regions near a metropolitan area
+GBR,UKK23,Somerset,3,January to August,4148.25,8.86518411378292,Regions near a metropolitan area
+GBR,UKK30,Cornwall and Isles of Scilly,3,January to August,4309.25,4.890642223124675,Regions far from a metropolitan area
+GBR,UKK41,Plymouth,3,January to August,1725.25,2.246051296913487,Regions near a metropolitan area
+GBR,UKK42,Torbay,3,January to August,1232,0.8928571428571397,Regions near a metropolitan area
+GBR,UKK43,Devon CC,3,January to August,6153.5,0.2843909969935776,Metropolitan region
+GBR,UKL,Wales,2,January to August,22713.75,9.515161521105053,NA
+GBR,UKL11,Isle of Anglesey,3,January to August,555.25,8.059432687978397,Regions far from a metropolitan area
+GBR,UKL12,Gwynedd,3,January to August,918.5,5.28034839412086,Regions far from a metropolitan area
+GBR,UKL13,Conwy and Denbighshire,3,January to August,1883,3.611258629845993,Regions near a metropolitan area
+GBR,UKL14,South West Wales,3,January to August,3095.5,5.378775642061062,Regions far from a metropolitan area
+GBR,UKL15,Central Valleys,3,January to August,2157.75,15.53701772679874,Metropolitan region
+GBR,UKL16,Gwent Valleys,3,January to August,2510.75,9.290052773075775,Metropolitan region
+GBR,UKL17,Bridgend and Neath Port Talbot,3,January to August,2219.25,9.586572040103647,Metropolitan region
+GBR,UKL18,Swansea,3,January to August,1805.75,10.86806036273016,Metropolitan region
+GBR,UKL21,Monmouthshire and Newport,3,January to August,1687.5,9.985185185185186,Regions near a metropolitan area
+GBR,UKL22,Cardiff and Vale of Glamorgan,3,January to August,2819.25,11.44808016316397,Metropolitan region
+GBR,UKL23,Flintshire and Wrexham,3,January to August,1960.75,14.19099834247099,Metropolitan region
+GBR,UKL24,Powys,3,January to August,1100.5,7.860063607451151,Regions far from a metropolitan area
+GBR,UKM,Scotland,2,January to August,38638,12.3841813758476,NA
+GBR,UKM50,Aberdeen City and Aberdeenshire,3,January to August,3105.75,6.995089752877726,Metropolitan region
+GBR,UKM61,Caithness & Sutherland and Ross & Cromarty,3,January to August,731.5,11.2781954887218,Regions far from a metropolitan area
+GBR,UKM62,"Inverness & Nairn and Moray, Badenoch & Strathspey",3,January to August,1413,6.794055201698512,Regions far from a metropolitan area
+GBR,UKM63,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",3,January to August,846.5,10.21854695806261,Regions far from a metropolitan area
+GBR,UKM64,Eilean Siar (Western Isles),3,January to August,239.25,4.911180773249746,Regions far from a metropolitan area
+GBR,UKM65,Orkney Islands,3,January to August,156.25,3.039999999999998,Regions far from a metropolitan area
+GBR,UKM66,Shetland Islands,3,January to August,141,0.7092198581560183,Regions far from a metropolitan area
+GBR,UKM71,Angus and Dundee City,3,January to August,2112.5,11.14792899408283,Regions near a metropolitan area
+GBR,UKM72,Clackmannanshire and Fife,3,January to August,3125.5,5.807070868661013,Regions near a metropolitan area
+GBR,UKM73,East Lothian and Midlothian,3,January to August,1305.75,13.57457399961708,Metropolitan region
+GBR,UKM75,"Edinburgh, City of",3,January to August,2877,15.32846715328466,Metropolitan region
+GBR,UKM76,Falkirk,3,January to August,1161.25,16.42626480086113,Regions near a metropolitan area
+GBR,UKM77,Perth & Kinross and Stirling,3,January to August,1736.25,10.46796256299496,Regions near a metropolitan area
+GBR,UKM78,West Lothian,3,January to August,1053.5,18.55719031798766,Metropolitan region
+GBR,UKM81,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",3,January to August,1650.5,16.93426234474402,Metropolitan region
+GBR,UKM82,Glasgow City,3,January to August,4277.75,13.79814154637369,Metropolitan region
+GBR,UKM83,"Inverclyde, East Renfrewshire and Renfrewshire",3,January to August,2703.25,17.96911125497087,Metropolitan region
+GBR,UKM84,North Lanarkshire,3,January to August,2429.75,14.57968926844326,Metropolitan region
+GBR,UKM91,Scottish Borders,3,January to August,884.25,12.18546791065876,Regions far from a metropolitan area
+GBR,UKM92,Dumfries & Galloway,3,January to August,1278.25,7.881869743790348,Regions far from a metropolitan area
+GBR,UKM93,East Ayrshire and North Ayrshire mainland,3,January to August,2047.25,10.0012211503236,Regions far from a metropolitan area
+GBR,UKM94,South Ayrshire,3,January to August,986.5,15.45869234668018,Regions near a metropolitan area
+GBR,UKM95,South Lanarkshire,3,January to August,2375.5,17.11218690801937,Metropolitan region
+GBR,UKN,Northern Ireland,2,January to August,10643.5,9.043077934889832,NA
+GBR,UKN06,Belfast,3,January to August,2079,14.81481481481481,Metropolitan region
+GBR,UKN07,"Armagh City, Banbridge and Craigavon",3,January to August,1075.25,5.277842362241336,Regions far from a metropolitan area
+GBR,UKN08,"Newry, Mourne and Down",3,January to August,932.75,8.818011257035652,Regions far from a metropolitan area
+GBR,UKN09,Ards and North Down,3,January to August,1054.25,10.22053592601375,Metropolitan region
+GBR,UKN10,Derry City and Strabane,3,January to August,807,-4.708798017348204,Regions far from a metropolitan area
+GBR,UKN11,Mid Ulster,3,January to August,721.75,1.281607204710777,Regions near a metropolitan area
+GBR,UKN12,Causeway Coast and Glens,3,January to August,832,11.29807692307692,Regions far from a metropolitan area
+GBR,UKN13,Antrim and Newtownabbey,3,January to August,786.5,16.08391608391608,Metropolitan region
+GBR,UKN14,Lisburn and Castlereagh,3,January to August,810.75,4.224483502929388,Metropolitan region
+GBR,UKN15,Mid and East Antrim,3,January to August,881,8.85357548240635,Regions far from a metropolitan area
+GBR,UKN16,Fermanagh and Omagh,3,January to August,663.25,9.762532981530336,Regions near a metropolitan area
+GRC,EL30,Attica,2,January to August,28231.75,2.441400196587185,NA
+GRC,EL301,Northern Athens,3,January to August,4064.25,4.840991572860931,Metropolitan region
+GRC,EL302,Western Athens,3,January to August,3389.25,4.241351331415499,Metropolitan region
+GRC,EL303,Central Athens,3,January to August,8506.5,-2.074883912302361,Metropolitan region
+GRC,EL304,Southern Athens,3,January to August,3931.25,2.38473767885532,Metropolitan region
+GRC,EL305,Eastern Attica,3,January to August,2990.25,9.355405066466016,Metropolitan region
+GRC,EL306,Western Attica,3,January to August,1009.5,8.964834076275373,Metropolitan region
+GRC,EL307,"Piraeus, Islands",3,January to August,4340.75,1.411046478143185,Metropolitan region
+GRC,EL41,North Aegean,2,January to August,1640.5,0.09143553794574988,NA
+GRC,EL411,"Lesbos, Lemnos",3,January to August,842.75,0.8602788490062352,Regions far from a metropolitan area
+GRC,EL412,"Ikaria, Samos",3,January to August,371.25,0.2020202020202033,Regions far from a metropolitan area
+GRC,EL413,Chios,3,January to August,426.5,-1.524032825322397,Regions far from a metropolitan area
+GRC,EL42,South Aegean,2,January to August,1950.5,4.127146885414001,NA
+GRC,EL421,"Kalymnos, Karpathos, Kos, Rhodes",3,January to August,1135.25,3.501431402774724,Regions far from a metropolitan area
+GRC,EL422,"Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros, Syros, Tinos",3,January to August,815.25,4.998466727997553,Regions far from a metropolitan area
+GRC,EL43,Crete,2,January to August,4291,1.631321370309946,NA
+GRC,EL431,Heraklion,3,January to August,2022.5,1.013597033374536,Regions far from a metropolitan area
+GRC,EL432,Lasithi,3,January to August,628.5,-2.147971360381862,Regions far from a metropolitan area
+GRC,EL433,Rethymno,3,January to August,532,4.887218045112785,Regions far from a metropolitan area
+GRC,EL434,Chania,3,January to August,1108,3.339350180505418,Regions far from a metropolitan area
+GRC,EL51,"Eastern Macedonia, Thrace",2,January to August,5086.25,7.092651757188495,NA
+GRC,EL511,Evros,3,January to August,1312.75,1.923443153685023,Regions far from a metropolitan area
+GRC,EL512,Xanthi,3,January to August,728.75,11.83533447684391,Regions far from a metropolitan area
+GRC,EL513,Rodope,3,January to August,914,2.735229759299784,Regions far from a metropolitan area
+GRC,EL514,Drama,3,January to August,911.75,13.73731834384426,Regions far from a metropolitan area
+GRC,EL515,"Thassos, Kavala",3,January to August,1219,8.121410992616894,Regions far from a metropolitan area
+GRC,EL52,Central Macedonia,2,January to August,14457.25,4.847049058430897,NA
+GRC,EL521,Imathia,3,January to August,1179.5,6.740144128868164,Regions far from a metropolitan area
+GRC,EL522,Thessalonica,3,January to August,7492,5.339028296849979,Metropolitan region
+GRC,EL523,Kilkis,3,January to August,817,-2.937576499388006,Regions far from a metropolitan area
+GRC,EL524,Pella,3,January to August,1247.25,5.271597514531967,Regions far from a metropolitan area
+GRC,EL525,Pieria,3,January to August,1057.75,5.696052942566765,Regions far from a metropolitan area
+GRC,EL526,Serres,3,January to August,1850,3.78378378378379,Regions far from a metropolitan area
+GRC,EL527,Chalcidice,3,January to August,813.75,6.052227342549932,Regions far from a metropolitan area
+GRC,EL53,Western Macedonia,2,January to August,2264.75,6.634286345071194,NA
+GRC,EL531,"Grevena, Kozani",3,January to August,1444.25,7.322139518781379,Regions far from a metropolitan area
+GRC,EL532,Kastoria,3,January to August,389.25,16.89145793192035,Regions far from a metropolitan area
+GRC,EL533,Florina,3,January to August,431.25,-4.927536231884055,Regions far from a metropolitan area
+GRC,EL54,Epirus,2,January to August,2750.5,0.8543901108889251,NA
+GRC,EL541,"Arta, Preveza",3,January to August,1167.75,1.305930207664319,Regions far from a metropolitan area
+GRC,EL542,Thesprotia,3,January to August,361.5,7.883817427385886,Regions far from a metropolitan area
+GRC,EL543,Ioannina,3,January to August,1221.25,-1.658137154554762,Regions far from a metropolitan area
+GRC,EL61,Thessaly,2,January to August,5949.5,5.218925960164711,NA
+GRC,EL611,"Karditsa, Trikala",3,January to August,2298,2.262837249782423,Regions far from a metropolitan area
+GRC,EL612,Larissa,3,January to August,2056.5,8.144906394359342,Regions far from a metropolitan area
+GRC,EL613,Magnesia,3,January to August,1595,5.705329153605021,Regions far from a metropolitan area
+GRC,EL62,Ionian Islands,2,January to August,1818,-1.26512651265126,NA
+GRC,EL621,Zakynthos,3,January to August,319.75,-0.8600469116497256,Regions far from a metropolitan area
+GRC,EL622,Corfu,3,January to August,949.5,-2.159031068983675,Regions far from a metropolitan area
+GRC,EL623,"Ithaca, Cephalonia",3,January to August,319.25,-3.52388410336727,Regions far from a metropolitan area
+GRC,EL624,Lefkada,3,January to August,229.5,5.010893246187353,Regions far from a metropolitan area
+GRC,EL63,Western Greece,2,January to August,5288,4.519667170953112,NA
+GRC,EL631,Aetolia-Acarnania,3,January to August,1745,0.515759312320907,Regions far from a metropolitan area
+GRC,EL632,Achaea,3,January to August,2260.75,4.301669799845187,Regions far from a metropolitan area
+GRC,EL633,Elis,3,January to August,1282.25,10.35289530122832,Regions far from a metropolitan area
+GRC,EL64,Central Greece,2,January to August,4550.5,0.86803647950775,NA
+GRC,EL641,Boeotia,3,January to August,919.75,2.310410437618926,Regions far from a metropolitan area
+GRC,EL642,Euboea,3,January to August,1779,-0.5059021922428353,Regions far from a metropolitan area
+GRC,EL643,Evrytania,3,January to August,156.5,9.904153354632594,Regions far from a metropolitan area
+GRC,EL644,Phthiotis,3,January to August,1377.5,0.3992740471869372,Regions far from a metropolitan area
+GRC,EL645,Phocis,3,January to August,317.75,1.966955153422512,Regions far from a metropolitan area
+GRC,EL65,Peloponnese,2,January to August,5056.25,1.597033374536472,NA
+GRC,EL651,"Argolida, Arcadia",3,January to August,1590.75,9.256639949709268,Regions far from a metropolitan area
+GRC,EL652,Corinthia,3,January to August,1223.25,2.268546903740032,Regions far from a metropolitan area
+GRC,EL653,"Laconia, Messinia",3,January to August,2242.25,-4.203367153528825,Regions far from a metropolitan area
+HUN,HU11,Budapest,2,January to August,14328.5,0.5967128450291348,NA
+HUN,HU110,Budapest,3,January to August,14328.5,0.5967128450291348,Metropolitan region
+HUN,HU12,Pest,2,January to August,9849.25,-2.906312663400767,NA
+HUN,HU120,Pest,3,January to August,9849.25,-2.906312663400767,Metropolitan region
+HUN,HU21,Central Transdanubia,2,January to August,9627.25,-1.207509932743001,NA
+HUN,HU211,Fejér,3,January to August,3730.75,-0.5293841720833581,Metropolitan region
+HUN,HU212,Komárom-Esztergom,3,January to August,2736.5,-1.626164809062669,Regions far from a metropolitan area
+HUN,HU213,Veszprém,3,January to August,3160,-1.645569620253162,Regions near a metropolitan area
+HUN,HU22,Western Transdanubia,2,January to August,8553.25,-2.586736036009707,NA
+HUN,HU221,Gyor-Moson-Sopron,3,January to August,3616.75,-0.7119651620930423,Regions far from a metropolitan area
+HUN,HU222,Vas,3,January to August,2301,-4.30247718383312,Regions far from a metropolitan area
+HUN,HU223,Zala,3,January to August,2635.5,-3.661544298994501,Regions far from a metropolitan area
+HUN,HU23,Southern Transdanubia,2,January to August,8662,-3.890556453474947,NA
+HUN,HU231,Baranya,3,January to August,3443.5,-3.267024829388698,Metropolitan region
+HUN,HU232,Somogy,3,January to August,3070.5,-6.497313141182215,Regions far from a metropolitan area
+HUN,HU233,Tolna,3,January to August,2148,-1.163873370577284,Regions near a metropolitan area
+HUN,HU31,Northern Hungary,2,January to August,11371,-5.549204115733009,NA
+HUN,HU311,Borsod-Abaúj-Zemplén,3,January to August,6370.25,-5.231348848161376,Metropolitan region
+HUN,HU312,Heves,3,January to August,2959.25,-4.840753569316547,Regions far from a metropolitan area
+HUN,HU313,Nógrád,3,January to August,2041.5,-7.567964731814847,Regions far from a metropolitan area
+HUN,HU32,Northern Great Plain,2,January to August,12758.75,-2.662878416772807,NA
+HUN,HU321,Hajdú-Bihar,3,January to August,4384.25,-3.221759708045846,Metropolitan region
+HUN,HU322,Jász-Nagykun-Szolnok,3,January to August,3773.5,-3.43182721611236,Regions far from a metropolitan area
+HUN,HU323,Szabolcs-Szatmár-Bereg,3,January to August,4601,-1.499673983916539,Regions far from a metropolitan area
+HUN,HU33,Southern Great Plain,2,January to August,12122.5,-4.400907403588372,NA
+HUN,HU331,Bács-Kiskun,3,January to August,4764.75,-2.660160554068947,Regions near a metropolitan area
+HUN,HU332,Békés,3,January to August,3693.75,-6.165820642978003,Regions far from a metropolitan area
+HUN,HU333,Csongrád,3,January to August,3664,-4.8853711790393,Regions far from a metropolitan area
+ISR,IL01,Jerusalem district,2,January to August,2828,7.248939179632252,NA
+ISR,IL02,Northern district,2,January to August,4300.75,4.284136487821888,NA
+ISR,IL03,Haifa district,2,January to August,4525.5,0.9170257430118234,NA
+ISR,IL04,Central district,2,January to August,7117.25,6.291053426534132,NA
+ISR,IL05,Tel Aviv district,2,January to August,6480.75,5.929097712456111,NA
+ISR,IL06,Southern district,2,January to August,4388.5,5.457445596445254,NA
+ITA,ITC1,Piedmont,2,January to August,36204.25,13.92861335340465,NA
+ITA,ITC11,Turin,3,January to August,17569.5,13.95315746037167,Metropolitan region
+ITA,ITC12,Vercelli,3,January to August,1686.75,14.89550911516229,Regions near a metropolitan area
+ITA,ITC13,Biella,3,January to August,1653.25,20.73189172841372,Regions far from a metropolitan area
+ITA,ITC14,Verbano-Cusio-Ossola,3,January to August,1357,7.516580692704489,Regions far from a metropolitan area
+ITA,ITC15,Novara,3,January to August,2857.25,19.59051535567415,Regions near a metropolitan area
+ITA,ITC16,Cuneo,3,January to August,4815.5,6.074135603779451,Regions far from a metropolitan area
+ITA,ITC17,Asti,3,January to August,2036.25,11.62676488643339,Regions near a metropolitan area
+ITA,ITC18,Alessandria,3,January to August,4228.75,19.0659178244162,Regions far from a metropolitan area
+ITA,ITC2,Aosta Valley,2,January to August,990.75,14.35780974009589,NA
+ITA,ITC20,Aosta Valley,3,January to August,990.75,14.35780974009589,Regions far from a metropolitan area
+ITA,ITC3,Liguria,2,January to August,14877.25,11.3982758910417,NA
+ITA,ITC31,Imperia,3,January to August,2063.25,8.66351629710409,Regions far from a metropolitan area
+ITA,ITC32,Savona,3,January to August,2702.75,8.88909444084729,Regions far from a metropolitan area
+ITA,ITC33,Genoa,3,January to August,8095.5,13.45809400284108,Metropolitan region
+ITA,ITC34,La Spezia,3,January to August,2015.75,9.289346397122667,Regions far from a metropolitan area
+ITA,ITC4,Lombardy,2,January to August,67102.5,39.64904437241535,NA
+ITA,ITC41,Varese,3,January to August,6236,13.8871071199487,Regions near a metropolitan area
+ITA,ITC42,Como,3,January to August,4128.75,21.10202845897668,Regions near a metropolitan area
+ITA,ITC43,Lecco,3,January to August,2232,42.96594982078854,Regions near a metropolitan area
+ITA,ITC44,Sondrio,3,January to August,1379,23.9303843364757,Regions far from a metropolitan area
+ITA,ITC46,Bergamo,3,January to August,6854,88.44470382258535,Metropolitan region
+ITA,ITC47,Brescia,3,January to August,7943.75,54.78835562549173,Metropolitan region
+ITA,ITC48,Pavia,3,January to August,4656.5,37.1416299795984,Regions far from a metropolitan area
+ITA,ITC49,Lodi,3,January to August,1536.5,62.51220305890011,Metropolitan region
+ITA,ITC4A,Cremona,3,January to August,2766.25,75.83370989606868,Regions near a metropolitan area
+ITA,ITC4B,Mantua,3,January to August,3117,28.07186397176773,Regions near a metropolitan area
+ITA,ITC4C,Milan,3,January to August,20985,29.10650464617584,Metropolitan region
+ITA,ITC4D,Monza e della Brianza,3,January to August,5267.75,26.4676569692943,Metropolitan region
+ITA,ITF1,Abruzzo,2,January to August,10400.25,1.516790461767736,NA
+ITA,ITF11,L'Aquila,3,January to August,2508.75,-9.277528649725964,Regions far from a metropolitan area
+ITA,ITF12,Teramo,3,January to August,2303.75,4.872490504612048,Regions far from a metropolitan area
+ITA,ITF13,Pescara,3,January to August,2390,9.790794979079486,Regions far from a metropolitan area
+ITA,ITF14,Chieti,3,January to August,3197.75,1.383785474161514,Regions far from a metropolitan area
+ITA,ITF2,Molise,2,January to August,2660.25,-2.039282022366318,NA
+ITA,ITF21,Isernia,3,January to August,779.75,-2.917601795447256,Regions far from a metropolitan area
+ITA,ITF22,Campobasso,3,January to August,1880.5,-1.675086413187987,Regions far from a metropolitan area
+ITA,ITF3,Campania,2,January to August,37528.25,-1.245062053253221,NA
+ITA,ITF31,Caserta,3,January to August,5608.75,-2.830398930242928,Regions near a metropolitan area
+ITA,ITF32,Benevento,3,January to August,2277.5,-5.422612513721181,Regions far from a metropolitan area
+ITA,ITF33,Naples,3,January to August,18584.5,-0.4385374909198547,Metropolitan region
+ITA,ITF34,Avellino,3,January to August,3276,5.311355311355315,Regions near a metropolitan area
+ITA,ITF35,Salerno,3,January to August,7781.5,-3.566150485124975,Regions near a metropolitan area
+ITA,ITF4,Apulia,2,January to August,27134.5,5.212920820357847,NA
+ITA,ITF43,Taranto,3,January to August,3952.25,2.043139983553677,Metropolitan region
+ITA,ITF44,Brindisi,3,January to August,2801.25,6.738063364569391,Regions near a metropolitan area
+ITA,ITF45,Lecce,3,January to August,5889.75,3.688611570949529,Regions far from a metropolitan area
+ITA,ITF46,Foggia,3,January to August,4327,7.88074878668823,Regions far from a metropolitan area
+ITA,ITF47,Bari,3,January to August,7842,6.057128283601121,Metropolitan region
+ITA,ITF48,Barletta-Andria-Trani,3,January to August,2322.25,4.812143395413937,Regions near a metropolitan area
+ITA,ITF5,Basilicata,2,January to August,4432,-1.444043321299637,NA
+ITA,ITF51,Potenza,3,January to August,2993.5,-1.219308501753802,Regions far from a metropolitan area
+ITA,ITF52,Matera,3,January to August,1438.5,-1.911713590545705,Regions near a metropolitan area
+ITA,ITF6,Calabria,2,January to August,14015.25,0.5904282834769292,NA
+ITA,ITF61,Cosenza,3,January to August,5222.25,1.354780027765812,Regions far from a metropolitan area
+ITA,ITF62,Crotone,3,January to August,1134.5,4.627589246364039,Regions far from a metropolitan area
+ITA,ITF63,Catanzaro,3,January to August,2586.25,-3.953600773320443,Regions far from a metropolitan area
+ITA,ITF64,Vibo Valentia,3,January to August,1127.5,1.019955654102001,Regions far from a metropolitan area
+ITA,ITF65,Reggio di Calabria,3,January to August,3944.75,1.27384498383929,Regions far from a metropolitan area
+ITA,ITG1,Sicily,2,January to August,37026.5,-1.646118320662227,NA
+ITA,ITG11,Trapani,3,January to August,3342,-2.274087372830635,Regions far from a metropolitan area
+ITA,ITG12,Palermo,3,January to August,8842.25,0.1894314229975436,Metropolitan region
+ITA,ITG13,Messina,3,January to August,5155.25,-3.011493138063137,Metropolitan region
+ITA,ITG14,Agrigento,3,January to August,3554.25,-2.39853696279102,Regions far from a metropolitan area
+ITA,ITG15,Caltanissetta,3,January to August,2111.75,-5.860068663430806,Regions far from a metropolitan area
+ITA,ITG16,Enna,3,January to August,1413,3.963198867657458,Regions near a metropolitan area
+ITA,ITG17,Catania,3,January to August,7500.5,-4.539697353509764,Metropolitan region
+ITA,ITG18,Ragusa,3,January to August,2213.75,0.5081874647091977,Regions far from a metropolitan area
+ITA,ITG19,Siracusa,3,January to August,2893.75,3.015118790496763,Regions near a metropolitan area
+ITA,ITG2,Sardinia,2,January to August,11500.75,3.27152577005847,NA
+ITA,ITG25,Sassari,3,January to August,2366.25,6.075013206550439,Regions far from a metropolitan area
+ITA,ITG26,Nuoro,3,January to August,1178.25,3.288775726713356,Regions far from a metropolitan area
+ITA,ITG27,Cagliari,3,January to August,3576,0.4474272930648837,Metropolitan region
+ITA,ITG28,Oristano,3,January to August,1297.75,6.183779618570595,Regions far from a metropolitan area
+ITA,ITG29,Olbia-Tempio,3,January to August,960.5,3.800104112441427,Regions far from a metropolitan area
+ITA,ITG2A,Ogliastra,3,January to August,424.75,-6.533254855797532,Regions far from a metropolitan area
+ITA,ITG2B,Medio Campidano,3,January to August,774.5,0.9683666881859176,Regions far from a metropolitan area
+ITA,ITG2C,Carbonia-Iglesias,3,January to August,922.75,8.805201842319143,Regions far from a metropolitan area
+ITA,ITH1,Province of Bolzano-Bozen,2,January to August,2971,18.31033322113767,NA
+ITA,ITH10,Bolzano-Bozen,3,January to August,2971,18.31033322113767,Regions far from a metropolitan area
+ITA,ITH2,Province of Trento,2,January to August,3435.5,19.40037840197932,NA
+ITA,ITH20,Trento,3,January to August,3435.5,19.40037840197932,Regions far from a metropolitan area
+ITA,ITH3,Veneto,2,January to August,33337,7.355190928997812,NA
+ITA,ITH31,Verona,3,January to August,6057.5,12.14197276104003,Metropolitan region
+ITA,ITH32,Vicenza,3,January to August,5489.5,8.315875762819935,Regions near a metropolitan area
+ITA,ITH33,Belluno,3,January to August,1779.75,0.7444865851945481,Regions far from a metropolitan area
+ITA,ITH34,Treviso,3,January to August,5602.5,6.648817492190995,Regions near a metropolitan area
+ITA,ITH35,Venice,3,January to August,6215.5,7.248009009733725,Metropolitan region
+ITA,ITH36,Padua,3,January to August,6133,5.136148703733889,Metropolitan region
+ITA,ITH37,Rovigo,3,January to August,2059.25,5.281048925579701,Regions near a metropolitan area
+ITA,ITH4,Friuli-Venezia Giulia,2,January to August,9977.75,2.187366891333209,NA
+ITA,ITH41,Pordenone,3,January to August,2189.5,4.909796757250518,Regions near a metropolitan area
+ITA,ITH42,Udine,3,January to August,4314,-0.2549837737598537,Regions far from a metropolitan area
+ITA,ITH43,Gorizia,3,January to August,1234,-0.8914100486223653,Regions far from a metropolitan area
+ITA,ITH44,Trieste,3,January to August,2240.25,5.925677937730156,Regions far from a metropolitan area
+ITA,ITH5,Emilia-Romagna,2,January to August,34111.5,15.77913606848131,NA
+ITA,ITH51,Piacenza,3,January to August,2463.25,50.12686491423932,Regions near a metropolitan area
+ITA,ITH52,Parma,3,January to August,3384.75,43.79200827239826,Metropolitan region
+ITA,ITH53,Reggio nell'Emilia,3,January to August,3687.25,14.47555766492643,Metropolitan region
+ITA,ITH54,Modena,3,January to August,4977.75,10.00954246396464,Regions far from a metropolitan area
+ITA,ITH55,Bologna,3,January to August,7908,8.801213960546272,Metropolitan region
+ITA,ITH56,Ferrara,3,January to August,3274.5,3.832646205527568,Regions near a metropolitan area
+ITA,ITH57,Ravenna,3,January to August,3193,2.067021609771369,Regions near a metropolitan area
+ITA,ITH58,Forlì-Cesena,3,January to August,2950.25,10.16015591898991,Regions near a metropolitan area
+ITA,ITH59,Rimini,3,January to August,2272.75,19.63480365196348,Regions far from a metropolitan area
+ITA,ITI1,Tuscany,2,January to August,29710.5,2.788576429208534,NA
+ITA,ITI11,Massa-Carrara,3,January to August,1749.75,10.53007572510358,Regions far from a metropolitan area
+ITA,ITI12,Lucca,3,January to August,3285.25,1.483905334449442,Regions near a metropolitan area
+ITA,ITI13,Pistoia,3,January to August,2257.75,1.56128889381022,Regions near a metropolitan area
+ITA,ITI14,Florence,3,January to August,7701.75,4.339922744830727,Metropolitan region
+ITA,ITI15,Prato,3,January to August,1703,-1.467997651203756,Metropolitan region
+ITA,ITI16,Livorno,3,January to August,2873.25,2.183938049247369,Regions far from a metropolitan area
+ITA,ITI17,Pisa,3,January to August,3206.75,2.003586185390183,Regions near a metropolitan area
+ITA,ITI18,Arezzo,3,January to August,2710.5,4.187419295332973,Regions near a metropolitan area
+ITA,ITI19,Siena,3,January to August,2291.5,-3.425703687540915,Regions far from a metropolitan area
+ITA,ITI1A,Grosseto,3,January to August,1931,4.609010875194208,Regions far from a metropolitan area
+ITA,ITI2,Umbria,2,January to August,7073.75,-0.3922954585615868,NA
+ITA,ITI21,Perugia,3,January to August,5071.75,-1.138660225760335,Regions near a metropolitan area
+ITA,ITI22,Terni,3,January to August,2002,1.498501498501503,Regions far from a metropolitan area
+ITA,ITI3,Marche,2,January to August,12093.75,10.4454780361757,NA
+ITA,ITI31,Pesaro e Urbino,3,January to August,2680.5,29.7892184293975,Regions near a metropolitan area
+ITA,ITI32,Ancona,3,January to August,3731.5,6.605922551252852,Regions far from a metropolitan area
+ITA,ITI33,Macerata,3,January to August,2580.25,6.307528340277102,Regions far from a metropolitan area
+ITA,ITI34,Ascoli Piceno,3,January to August,1671.5,-0.3888722704157965,Regions far from a metropolitan area
+ITA,ITI35,Fermo,3,January to August,1430,4.335664335664347,Regions far from a metropolitan area
+ITA,ITI4,Lazio,2,January to August,39960.5,-1.415147458114885,NA
+ITA,ITI41,Viterbo,3,January to August,2627.5,-1.883920076117984,Regions far from a metropolitan area
+ITA,ITI42,Rieti,3,January to August,1360.5,-2.315325248070566,Regions far from a metropolitan area
+ITA,ITI43,Rome,3,January to August,28477.75,-1.586326166919794,Metropolitan region
+ITA,ITI44,Latina,3,January to August,3657.25,0.9228245266251989,Regions far from a metropolitan area
+ITA,ITI45,Frosinone,3,January to August,3837.5,-1.732899022801304,Regions far from a metropolitan area
+JPN,JPA,Hokkaido,2,January to August,41978.75,0.5389631658875071,NA
+JPN,JPA01,Hokkaido,3,January to August,41978.75,0.5389631658875071,Metropolitan region
+JPN,JPB,Tohoku,2,January to August,75683,-0.9473725935811195,NA
+JPN,JPB02,Aomori,3,January to August,11813.25,-1.187226207859815,Regions near a metropolitan area
+JPN,JPB03,Iwate,3,January to August,11431.75,-1.616113018566712,Regions near a metropolitan area
+JPN,JPB04,Miyagi,3,January to August,15918.75,0.6423243031016934,Metropolitan region
+JPN,JPB05,Akita,3,January to August,10172,-0.6488399528116418,Regions near a metropolitan area
+JPN,JPB06,Yamagata,3,January to August,10141.25,-1.609762110193513,Regions near a metropolitan area
+JPN,JPB07,Fukushima,3,January to August,16206,-1.63519684067629,Metropolitan region
+JPN,JPC,"Northern-Kanto, Koshin",2,January to August,74340.25,-0.09449793348824675,NA
+JPN,JPC08,Ibaraki,3,January to August,21603.25,-0.001157233286652737,Metropolitan region
+JPN,JPC09,Tochigi,3,January to August,14414.5,-0.8775885393180527,Regions near a metropolitan area
+JPN,JPC10,Gumma,3,January to August,15022.5,1.467798302546175,Metropolitan region
+JPN,JPC19,Yamanashi,3,January to August,6448.5,-0.1318136000620251,Metropolitan region
+JPN,JPC20,Nagano,3,January to August,16851.5,-0.9227665193009549,Regions near a metropolitan area
+JPN,JPD,Southern-Kanto,2,January to August,213744,3.202896923422416,NA
+JPN,JPD11,Saitama,3,January to August,43830.5,4.682812196986119,Metropolitan region
+JPN,JPD12,Chiba,3,January to August,39068.5,4.124806429732386,Metropolitan region
+JPN,JPD13,Tokyo,3,January to August,77480.5,1.936616309910244,Metropolitan region
+JPN,JPD14,Kanagawa,3,January to August,53364.5,3.150971151233506,Metropolitan region
+JPN,JPE,Hokuriku,2,January to August,42840.75,-1.80610750278648,NA
+JPN,JPE15,Niigata,3,January to August,19645,-2.199032832781878,Regions near a metropolitan area
+JPN,JPE16,Toyama,3,January to August,8642.5,-2.551345096904834,Metropolitan region
+JPN,JPE17,Ishikawa,3,January to August,8376.5,-0.2566704470841064,Metropolitan region
+JPN,JPE18,Fukui,3,January to August,6176.75,-1.614926943781114,Metropolitan region
+JPN,JPF,Toukai,2,January to August,100738.25,1.299158958985291,NA
+JPN,JPF21,Gifu,3,January to August,15177,-2.918890426302956,Metropolitan region
+JPN,JPF22,Shizuoka,3,January to August,27164,2.057870711235466,Metropolitan region
+JPN,JPF23,Aichi,3,January to August,44762.25,2.682505906204447,Metropolitan region
+JPN,JPF24,Mie,3,January to August,13635,-0.05867253392005667,Metropolitan region
+JPN,JPG,Kansai region,2,January to August,140434.5,1.455126767282966,NA
+JPN,JPG25,Shiga,3,January to August,8582.5,-1.00786484124672,Metropolitan region
+JPN,JPG26,Kyoto,3,January to August,17518.5,1.041755858092874,Metropolitan region
+JPN,JPG27,Osaka,3,January to August,58497.75,2.397100743190972,Metropolitan region
+JPN,JPG28,Hyogo,3,January to August,37669.25,1.88150812665504,Metropolitan region
+JPN,JPG29,Nara,3,January to August,9604.75,1.356099846430148,Metropolitan region
+JPN,JPG30,Wakayama,3,January to August,8561.75,-3.430957456127548,Metropolitan region
+JPN,JPH,Chugoku,2,January to August,58573,-2.169941782049745,NA
+JPN,JPH31,Tottori,3,January to August,4944.5,-6.057235311962783,Regions far from a metropolitan area
+JPN,JPH32,Shimane,3,January to August,6373.75,-1.502255344185133,Regions far from a metropolitan area
+JPN,JPH33,Okayama,3,January to August,14441.75,-1.403915730434335,Metropolitan region
+JPN,JPH34,Hiroshima,3,January to August,20448,-2.474569640062596,Metropolitan region
+JPN,JPH35,Yamaguchi,3,January to August,12365,-1.350586332389814,Regions near a metropolitan area
+JPN,JPI,Shikoku,2,January to August,33444,-1.339552685085521,NA
+JPN,JPI36,Tokushima,3,January to August,6652.25,-1.882821601713702,Metropolitan region
+JPN,JPI37,Kagawa,3,January to August,7979.25,0.8114797756681336,Metropolitan region
+JPN,JPI38,Ehime,3,January to August,11987.75,-0.9905945652853965,Regions near a metropolitan area
+JPN,JPI39,Kochi,3,January to August,6824.75,-3.93787318216785,Metropolitan region
+JPN,JPJ,"Kyushu, Okinawa",2,January to August,108941,-0.7572906435593607,NA
+JPN,JPJ40,Fukuoka,3,January to August,35070.5,0.1012246760097479,Metropolitan region
+JPN,JPJ41,Saga,3,January to August,6619.5,-0.007553440592189542,Regions near a metropolitan area
+JPN,JPJ42,Nagasaki,3,January to August,11602.75,-0.1443623278964079,Regions near a metropolitan area
+JPN,JPJ43,Kumamoto,3,January to August,14287.5,-2.467191601049867,Metropolitan region
+JPN,JPJ44,Oita,3,January to August,9557.5,-1.86764321213706,Metropolitan region
+JPN,JPJ45,Miyazaki,3,January to August,9116,0.9104870557262057,Regions near a metropolitan area
+JPN,JPJ46,Kagoshima,3,January to August,14580.5,-3.432666918144101,Regions near a metropolitan area
+JPN,JPJ47,Okinawa,3,January to August,8106.75,1.298300798717111,Metropolitan region
+KOR,KR01,Capital Region (KR),2,January to August,77286.5,5.674341573237252,NA
+KOR,KR011,Seoul,3,January to August,29170.25,2.398848141514032,Metropolitan region
+KOR,KR012,Incheon,3,January to August,9719.75,7.163250083592687,Metropolitan region
+KOR,KR013,Gyeonggi-do,3,January to August,38396.5,7.7858658992356,Metropolitan region
+KOR,KR02,Gyeongnam Region,2,January to August,32295.25,4.956611266362709,NA
+KOR,KR021,Busan,3,January to August,14486.75,5.413567570366018,Metropolitan region
+KOR,KR022,Ulsan,3,January to August,3373.25,3.965018898688211,Metropolitan region
+KOR,KR023,Gyeongsangnam-do,3,January to August,14435.25,4.729741431565082,Metropolitan region
+KOR,KR03,Gyeongbuk Region,2,January to August,23368.5,6.797612170229161,NA
+KOR,KR031,Daegu,3,January to August,9113.75,6.553284871759701,Metropolitan region
+KOR,KR032,Gyeongsangbuk-do,3,January to August,14254.75,6.953822410073829,Metropolitan region
+KOR,KR04,Jeolla Region,2,January to August,25652.25,2.825288230077283,NA
+KOR,KR041,Gwangju,3,January to August,4972,2.534191472244562,Metropolitan region
+KOR,KR042,Jeollabuk-do,3,January to August,9492.25,2.251837024941406,Metropolitan region
+KOR,KR043,Jeollanam-do,3,January to August,11188,3.441186986056488,Regions far from a metropolitan area
+KOR,KR05,Chungcheong Region,2,January to August,23009.75,4.612175273525354,NA
+KOR,KR051,Daejeon,3,January to August,4781,3.932231750679782,Metropolitan region
+KOR,KR052,Chungcheongbuk-do,3,January to August,7345.5,4.022871145599338,Metropolitan region
+KOR,KR053,Chungcheongnam-do,3,January to August,10108.75,4.760727092865102,Regions near a metropolitan area
+KOR,KR054,Sejong,3,January to August,774.5,12.45965138799225,Regions near a metropolitan area
+KOR,KR06,Gangwon Region,2,January to August,7725.75,4.61120279584506,NA
+KOR,KR061,Gangwon-do,3,January to August,7725.75,4.61120279584506,Regions near a metropolitan area
+KOR,KR07,Jeju,2,January to August,2536.5,2.22747880938301,NA
+KOR,KR071,Jeju-do,3,January to August,2536.5,2.22747880938301,Metropolitan region
+LTU,LT01,Vilnius Region,2,January to August,6538.25,-0.04970749053645474,NA
+LTU,LT011,Vilnius county,3,January to August,6538.25,-0.04970749053645474,Metropolitan region
+LTU,LT02,Central and Western Lithuania,2,January to August,20580.75,-2.126987597633712,NA
+LTU,LT021,Alytus county,3,January to August,1555.25,-2.973798424690566,Regions far from a metropolitan area
+LTU,LT022,Kaunas county,3,January to August,5369.75,-1.727268494808887,Metropolitan region
+LTU,LT023,Klaipeda county,3,January to August,2920.5,2.927580893682591,Regions far from a metropolitan area
+LTU,LT024,Marijampole county,3,January to August,1501,-1.732178547634911,Regions far from a metropolitan area
+LTU,LT025,Panevežys county,3,January to August,2427.25,-4.624575136471321,Regions far from a metropolitan area
+LTU,LT026,Šiauliai county,3,January to August,2771.5,-1.208731733718205,Regions far from a metropolitan area
+LTU,LT027,Taurage county,3,January to August,1054.5,-6.21147463252727,Regions far from a metropolitan area
+LTU,LT028,Telšiai county,3,January to August,1291.75,-8.805883491387656,Regions far from a metropolitan area
+LTU,LT029,Utena county,3,January to August,1689.25,-1.96832914015096,Regions far from a metropolitan area
+LUX,LU00,Luxembourg,2,January to August,2813.25,2.372700613169831,NA
+LVA,LV00,Latvia,2,January to August,19282.25,-4.715476668957197,NA
+LVA,LV003,Kurzeme,3,January to August,2617.25,-6.161046900372524,Regions far from a metropolitan area
+LVA,LV005,Latgale,3,January to August,3298.75,-7.23758999621068,Regions far from a metropolitan area
+LVA,LV006,Riga,3,January to August,5919,-2.39905389423889,Metropolitan region
+LVA,LV007,Pieriga,3,January to August,3055.75,-4.27881862063323,Regions far from a metropolitan area
+LVA,LV008,Vidzeme,3,January to August,2053.5,-7.134161188215238,Regions far from a metropolitan area
+LVA,LV009,Zemgale,3,January to August,2338,-3.849443969204447,Regions far from a metropolitan area
+MEX,ME01,Aguascalientes,2,January to August,4286.25,14.83231262758822,NA
+MEX,ME02,Baja California Norte,2,January to August,13960,59.61318051575933,NA
+MEX,ME03,Baja California Sur,2,January to August,2347.25,36.03152625412718,NA
+MEX,ME04,Campeche,2,January to August,3134.75,73.41095781162772,NA
+MEX,ME05,Coahuila,2,January to August,11225.25,29.92138259726955,NA
+MEX,ME06,Colima,2,January to August,3249.75,24.31725517347487,NA
+MEX,ME07,Chiapas,2,January to August,17982.25,25.22348426920991,NA
+MEX,ME08,Chihuahua,2,January to August,16400.25,18.46770628496517,NA
+MEX,ME09,Federal District (MX),2,January to August,50558,61.68361090232999,NA
+MEX,ME10,Durango,2,January to August,6208.5,4.77571071917533,NA
+MEX,ME11,Guanajuato,2,January to August,23286.75,38.09569819747281,NA
+MEX,ME12,Guerrero,2,January to August,12892.75,21.75059626534292,NA
+MEX,ME13,Hidalgo,2,January to August,10196.25,32.0191246781905,NA
+MEX,ME14,Jalisco,2,January to August,32271.5,16.12103558867732,NA
+MEX,ME15,Mexico,2,January to August,50413.25,67.31514036488424,NA
+MEX,ME16,Michoacan,2,January to August,18164.5,19.18852707203611,NA
+MEX,ME17,Morelos,2,January to August,8497.5,48.26713739335098,NA
+MEX,ME18,Nayarit,2,January to August,4348.75,10.23857430296062,NA
+MEX,ME19,Nuevo Leon,2,January to August,19019.75,35.19630909975157,NA
+MEX,ME20,Oaxaca,2,January to August,16384.5,17.60505355671518,NA
+MEX,ME21,Puebla,2,January to August,25151.5,70.88046438582192,NA
+MEX,ME22,Queretaro,2,January to August,7101.75,25.4761150420671,NA
+MEX,ME23,Quintana Roo,2,January to August,4529.25,66.47347794888778,NA
+MEX,ME24,San Luis Potosi,2,January to August,10671.25,19.15192690640741,NA
+MEX,ME25,Sinaloa,2,January to August,10713.75,39.50297514875744,NA
+MEX,ME26,Sonora,2,January to August,11922.75,60.13922962403808,NA
+MEX,ME27,Tabasco,2,January to August,9317.25,48.67047680377794,NA
+MEX,ME28,Tamaulipas,2,January to August,13343.75,37.86229508196721,NA
+MEX,ME29,Tlaxcala,2,January to August,4343.25,78.36873309157887,NA
+MEX,ME30,Veracruz,2,January to August,35612.5,35.6040716040716,NA
+MEX,ME31,Yucatan,2,January to August,8934,34.83322140138796,NA
+MEX,ME32,Zacatecas,2,January to August,6243.75,26.91091091091091,NA
+NLD,NL11,Groningen,2,January to August,3817.5,-1.191879502292081,NA
+NLD,NL111,Oost-Groningen,3,January to August,1172.25,-6.931115376412878,Regions near a metropolitan area
+NLD,NL112,Delfzijl en omgeving,3,January to August,386,-8.03108808290155,Regions far from a metropolitan area
+NLD,NL113,Overig Groningen,3,January to August,2259.25,2.954520305411079,Metropolitan region
+NLD,NL12,Friesland,2,January to August,4285.75,-0.4374963541970534,NA
+NLD,NL124,Noord-Friesland,3,January to August,2090,-2.918660287081343,Regions far from a metropolitan area
+NLD,NL125,Zuidwest-Friesland,3,January to August,902,2.106430155210637,Regions near a metropolitan area
+NLD,NL126,Zuidoost-Friesland,3,January to August,1293.75,1.797101449275362,Regions near a metropolitan area
+NLD,NL13,Drenthe,2,January to August,3527.75,2.614981220324575,NA
+NLD,NL131,Noord-Drenthe,3,January to August,1339.25,5.581482172857943,Regions near a metropolitan area
+NLD,NL132,Zuidoost-Drenthe,3,January to August,1257.75,1.769032001590132,Regions near a metropolitan area
+NLD,NL133,Zuidwest-Drenthe,3,January to August,930.75,-0.5103411227504684,Regions near a metropolitan area
+NLD,NL21,Overijssel,2,January to August,7008,7.434360730593603,NA
+NLD,NL211,Noord-Overijssel,3,January to August,1995.25,13.61984713695026,Regions far from a metropolitan area
+NLD,NL212,Zuidwest-Overijssel,3,January to August,962.25,13.48402182385036,Regions near a metropolitan area
+NLD,NL213,Twente,3,January to August,4050.5,2.950253055178376,Metropolitan region
+NLD,NL22,Gelderland,2,January to August,12693.25,8.955547239674623,NA
+NLD,NL221,Veluwe,3,January to August,4139.5,10.7380118371784,Regions near a metropolitan area
+NLD,NL224,Zuidwest-Gelderland,3,January to August,1303.5,15.61181434599157,Regions near a metropolitan area
+NLD,NL225,Achterhoek,3,January to August,2817,3.833865814696491,Regions near a metropolitan area
+NLD,NL226,Arnhem/Nijmegen,3,January to August,4433.25,8.588507302768855,Metropolitan region
+NLD,NL23,Flevoland,2,January to August,1621.25,7.818041634541251,NA
+NLD,NL230,Flevoland,3,January to August,1621.25,7.818041634541251,Metropolitan region
+NLD,NL31,Utrecht,2,January to August,6639.75,10.32041869046274,NA
+NLD,NL310,Utrecht,3,January to August,6639.75,10.32041869046274,Metropolitan region
+NLD,NL32,North Holland,2,January to August,15637.25,6.118403171913212,NA
+NLD,NL321,Kop van Noord-Holland,3,January to August,2268.75,4.859504132231396,Metropolitan region
+NLD,NL323,IJmond,3,January to August,1308,5.810397553516822,Metropolitan region
+NLD,NL324,Agglomeratie Haarlem,3,January to August,1597.5,-2.410015649452268,Metropolitan region
+NLD,NL325,Zaanstreek,3,January to August,969.5,12.53223310985043,Metropolitan region
+NLD,NL327,Het Gooi en Vechtstreek,3,January to August,1769,6.896551724137923,Regions far from a metropolitan area
+NLD,NL328,Alkmaar en omgeving,3,January to August,1414.75,12.88213465276551,Regions far from a metropolitan area
+NLD,NL329,Groot-Amsterdam,3,January to August,6309.75,6.073933198621173,Metropolitan region
+NLD,NL33,South Holland,2,January to August,20921.75,6.80750893209221,NA
+NLD,NL332,Agglomeratie 's-Gravenhage,3,January to August,4757.5,5.370467682606406,Metropolitan region
+NLD,NL333,Delft en Westland,3,January to August,1130,7.2566371681416,Regions far from a metropolitan area
+NLD,NL337,Agglomeratie Leiden en Bollenstreek,3,January to August,2382.5,7.492130115424978,Regions far from a metropolitan area
+NLD,NL33A,Zuidoost-Zuid-Holland,3,January to August,2399.75,-0.3229503073236772,Regions far from a metropolitan area
+NLD,NL33B,Oost-Zuid-Holland,3,January to August,1794.75,5.864326507870188,Regions near a metropolitan area
+NLD,NL33C,Groot-Rijnmond,3,January to August,8457.25,9.586449495994565,Metropolitan region
+NLD,NL34,Zeeland,2,January to August,2664.25,4.945106502768137,NA
+NLD,NL341,Zeeuwsch-Vlaanderen,3,January to August,832.25,5.016521477921287,Regions near a metropolitan area
+NLD,NL342,Overig Zeeland,3,January to August,1832,4.912663755458513,Regions near a metropolitan area
+NLD,NL41,North Brabant,2,January to August,15351,14.99576574815973,NA
+NLD,NL411,West-Noord-Brabant,3,January to August,4076,4.759568204121689,Regions far from a metropolitan area
+NLD,NL412,Midden-Noord-Brabant,3,January to August,2849.75,14.11527326958506,Metropolitan region
+NLD,NL413,Noordoost-Noord-Brabant,3,January to August,3884.5,24.88093705753636,Regions near a metropolitan area
+NLD,NL414,Zuidoost-Noord-Brabant,3,January to August,4540.75,16.28035016241811,Metropolitan region
+NLD,NL42,Limburg,2,January to August,7991.25,17.66619740340998,NA
+NLD,NL421,Noord-Limburg,3,January to August,1743,15.49053356282273,Regions near a metropolitan area
+NLD,NL422,Midden-Limburg,3,January to August,1612.25,17.59962784927895,Regions near a metropolitan area
+NLD,NL423,Zuid-Limburg,3,January to August,4636,18.50733390854185,Regions far from a metropolitan area
+NOR,NO01,Oslo and Akershus,2,January to August,5308.25,0.01412895021899452,NA
+NOR,NO011,Oslo,3,January to August,2618.5,-1.661256444529313,Metropolitan region
+NOR,NO012,Akershus,3,January to August,2689.75,1.645134306162288,Metropolitan region
+NOR,NO02,Hedmark and Oppland,2,January to August,2720,-4.154411764705879,NA
+NOR,NO021,Hedmark,3,January to August,1437.5,-3.721739130434787,Regions far from a metropolitan area
+NOR,NO022,Oppland,3,January to August,1282.5,-4.639376218323587,Regions far from a metropolitan area
+NOR,NO03,South-Eastern Norway,2,January to August,5795.75,0.6944743993443581,NA
+NOR,NO031,Østfold,3,January to August,1724.75,2.043774460066672,Regions near a metropolitan area
+NOR,NO032,Buskerud,3,January to August,1532,1.10966057441253,Regions near a metropolitan area
+NOR,NO033,Vestfold,3,January to August,1411.75,0.159376660173538,Regions far from a metropolitan area
+NOR,NO034,Telemark,3,January to August,1127.25,-1.264138389886893,Regions far from a metropolitan area
+NOR,NO04,Agder and Rogaland,2,January to August,3665.75,-0.7024483393575642,NA
+NOR,NO041,Aust-Agder,3,January to August,658,-3.039513677811545,Regions far from a metropolitan area
+NOR,NO042,Vest-Agder,3,January to August,965.75,0.6471654154801998,Regions far from a metropolitan area
+NOR,NO043,Rogaland,3,January to August,2042,-0.5876591576885359,Metropolitan region
+NOR,NO05,Western Norway,2,January to August,4708,-2.442650807136793,NA
+NOR,NO051,Hordaland,3,January to August,2488.75,2.019085886489203,Metropolitan region
+NOR,NO052,Sogn og Fjordane,3,January to August,681.75,-9.497616428309497,Regions far from a metropolitan area
+NOR,NO053,Møre og Romsdal,3,January to August,1537.5,-6.536585365853654,Regions far from a metropolitan area
+NOR,NO06,Trøndelag,2,January to August,2370,-3.375527426160341,NA
+NOR,NO060,Trøndelag,3,January to August,2370,-3.375527426160341,Metropolitan region
+NOR,NO07,Northern Norway,2,January to August,2849.5,-1.070363221617832,NA
+NOR,NO071,Nordland,3,January to August,1515.25,-1.006434581752191,Regions far from a metropolitan area
+NOR,NO072,Troms,3,January to August,891,0.1122334455667895,Regions far from a metropolitan area
+NOR,NO073,Finnmark,3,January to August,443.25,-3.666102650874226,Regions far from a metropolitan area
+NZL,NZ11,Northland Region,2,January to August,1084.5,-0.2305209774089434,NA
+NZL,NZ12,Auckland Region,2,January to August,5582.75,-2.109175585508938,NA
+NZL,NZ13,Waikato Region,2,January to August,2208.75,0.2829654782116498,NA
+NZL,NZ14,Bay of Plenty Region,2,January to August,1761,-3.236797274275982,NA
+NZL,NZ15,Gisborne Region,2,January to August,287.25,-11.92341166231505,NA
+NZL,NZ16,Hawke's Bay Region,2,January to August,997,-5.516549648946844,NA
+NZL,NZ17,Taranaki Region,2,January to August,672,-2.827380952380953,NA
+NZL,NZ18,Manawatu-Wanganui Region,2,January to August,1451.5,-6.303823630726835,NA
+NZL,NZ19,Wellington Region,2,January to August,2238.5,-1.362519544337726,NA
+NZL,NZ21,Tasman-Nelson-Marlborough,2,January to August,852.25,-6.365503080082135,NA
+NZL,NZ22,West Coast Region,2,January to August,191.75,-1.434159061277707,NA
+NZL,NZ23,Canterbury Region,2,January to August,2943,1.597009853890596,NA
+NZL,NZ24,Otago Region,2,January to August,1087.5,2.436781609195404,NA
+NZL,NZ25,Southland Region,2,January to August,544,8.639705882352944,NA
+POL,PL21,Lesser Poland,2,January to August,21584.5,3.70867983969978,NA
+POL,PL213,City of Krakow,3,January to August,5142,4.531310774017894,Metropolitan region
+POL,PL214,Krakowski,3,January to August,4500.5,2.633040773247419,Metropolitan region
+POL,PL217,Tarnowski,3,January to August,2867.75,4.402406067474507,Metropolitan region
+POL,PL218,Nowosadecki,3,January to August,3046,5.613919894944197,Regions near a metropolitan area
+POL,PL219,Nowotarski,3,January to August,2077.25,1.14333854856179,Regions far from a metropolitan area
+POL,PL21A,Oswiecimski,3,January to August,3951,3.239686155403687,Regions near a metropolitan area
+POL,PL22,Silesia,2,January to August,34374.25,3.522258667461831,NA
+POL,PL224,Czestochowski,3,January to August,4237,1.014869011092756,Metropolitan region
+POL,PL225,Bielski,3,January to August,4705.5,5.557326532780782,Metropolitan region
+POL,PL227,Rybnicki,3,January to August,4213.5,6.206241841699289,Regions near a metropolitan area
+POL,PL228,Bytomski,3,January to August,3391,6.281332940135642,Metropolitan region
+POL,PL229,Gliwicki,3,January to August,3435,1.717612809315861,Metropolitan region
+POL,PL22A,Katowicki,3,January to August,6087,2.776408739937564,Metropolitan region
+POL,PL22B,Sosnowiecki,3,January to August,5784.25,3.263171543415311,Metropolitan region
+POL,PL22C,Tyski,3,January to August,2521,0.5950019833399489,Metropolitan region
+POL,PL41,Greater Poland,2,January to August,22717.25,2.221879849013408,NA
+POL,PL411,Pilski,3,January to August,2749.75,-2.172924811346488,Regions far from a metropolitan area
+POL,PL414,Koninski,3,January to August,4398,1.318781264211011,Regions far from a metropolitan area
+POL,PL415,City of Poznan,3,January to August,3834.5,3.898813404615997,Metropolitan region
+POL,PL416,Kaliski,3,January to August,4628,4.948141745894552,Regions far from a metropolitan area
+POL,PL417,Leszczynski,3,January to August,3553,0.6754855052068631,Regions far from a metropolitan area
+POL,PL418,Poznanski,3,January to August,3554,2.926280247608326,Metropolitan region
+POL,PL42,West Pomerania,2,January to August,12067.5,4.553552931427385,NA
+POL,PL424,City of Szczecin,3,January to August,3119.75,4.207067874028359,Metropolitan region
+POL,PL426,Koszalinski,3,January to August,2490.5,6.84601485645453,Regions far from a metropolitan area
+POL,PL427,Szczecinecko-pyrzycki,3,January to August,3084.25,3.039636864715889,Regions far from a metropolitan area
+POL,PL428,Szczecinski,3,January to August,3373,4.565668544322565,Regions near a metropolitan area
+POL,PL43,Lubusz,2,January to August,7085.5,2.222849481335132,NA
+POL,PL431,Gorzowski,3,January to August,2679.5,3.041612241089764,Regions far from a metropolitan area
+POL,PL432,Zielonogórski,3,January to August,4406,1.724920562868815,Regions far from a metropolitan area
+POL,PL51,Lower Silesia,2,January to August,21640.5,1.554954830064004,NA
+POL,PL514,City of Wroclaw,3,January to August,4634.5,-1.866436508792746,Metropolitan region
+POL,PL515,Jeleniogórski,3,January to August,4478.25,0.307039580193158,Regions far from a metropolitan area
+POL,PL516,Legnicko-Glogowski,3,January to August,3121.75,2.538640185793217,Regions far from a metropolitan area
+POL,PL517,Walbrzyski,3,January to August,5633,3.443990768684535,Regions far from a metropolitan area
+POL,PL518,Wroclawski,3,January to August,3773,3.604558706599526,Regions near a metropolitan area
+POL,PL52,Opole region,2,January to August,7120.5,1.495681483041911,NA
+POL,PL523,Nyski,3,January to August,2889.75,-1.894627562937967,Regions near a metropolitan area
+POL,PL524,Opolski,3,January to August,4230.75,3.811380960822541,Metropolitan region
+POL,PL61,Kuyavian-Pomerania,2,January to August,14637,2.281888365102147,NA
+POL,PL613,Bydgosko-Torunski,3,January to August,5288.75,4.107775939494207,Metropolitan region
+POL,PL616,Grudziadzki,3,January to August,2750.75,0.190857038989356,Regions far from a metropolitan area
+POL,PL617,Inowroclawski,3,January to August,2568,4.556074766355134,Regions far from a metropolitan area
+POL,PL618,Swiecki,3,January to August,1246,-1.12359550561798,Regions near a metropolitan area
+POL,PL619,Wloclawski,3,January to August,2783.5,0.3053709358721068,Regions far from a metropolitan area
+POL,PL62,Warmian-Masuria,2,January to August,9865.25,-1.066876156204866,NA
+POL,PL621,Elblaski,3,January to August,3700.5,0.4999324415619455,Regions far from a metropolitan area
+POL,PL622,Olsztynski,3,January to August,4210,-3.087885985748218,Metropolitan region
+POL,PL623,Elcki,3,January to August,1954.75,0.3197339813275413,Regions far from a metropolitan area
+POL,PL63,Pomerania,2,January to August,14745,1.973550356052889,NA
+POL,PL633,Trojmiejski,3,January to August,5494.75,-0.3230356249146915,Metropolitan region
+POL,PL634,Gdanski,3,January to August,2984,5.797587131367288,Metropolitan region
+POL,PL636,Slupski,3,January to August,2217.5,1.195039458850067,Regions far from a metropolitan area
+POL,PL637,Chojnicki,3,January to August,1343.25,5.862646566164154,Regions far from a metropolitan area
+POL,PL638,Starogardzki,3,January to August,2705.5,1.127333210127524,Regions far from a metropolitan area
+POL,PL71,Lodzkie,2,January to August,20930.75,-0.2902428245523891,NA
+POL,PL711,City of Lódz,3,January to August,6675,-2.456928838951311,Metropolitan region
+POL,PL712,Lódzki,3,January to August,3115.5,1.845610656395436,Metropolitan region
+POL,PL713,Piotrkowski,3,January to August,4577,3.189862355254536,Regions near a metropolitan area
+POL,PL714,Sieradzki,3,January to August,3528.5,-3.500070851636672,Regions far from a metropolitan area
+POL,PL715,Skierniewicki,3,January to August,3034.75,0.766125710519816,Regions near a metropolitan area
+POL,PL72,Swietokrzyskie,2,January to August,9612.25,2.951962339722747,NA
+POL,PL721,Kielecki,3,January to August,5711.25,4.653096957758818,Metropolitan region
+POL,PL722,Sandomiersko-jedrzejowski,3,January to August,3901,0.4614201486798253,Regions far from a metropolitan area
+POL,PL81,Lublin Province,2,January to August,15554.75,-0.06911072180523226,NA
+POL,PL811,Bialski,3,January to August,2239,-0.1339883876730674,Regions far from a metropolitan area
+POL,PL812,Chelmsko-zamojski,3,January to August,4861.5,-0.5450992492029183,Regions far from a metropolitan area
+POL,PL814,Lubelski,3,January to August,4841.75,1.987917591779831,Metropolitan region
+POL,PL815,Pulawski,3,January to August,3612.5,-2.145328719723183,Regions far from a metropolitan area
+POL,PL82,Podkarpacia,2,January to August,13143.25,2.661061761740813,NA
+POL,PL821,Krosnienski,3,January to August,3017.25,2.9082774049217,Regions far from a metropolitan area
+POL,PL822,Przemyski,3,January to August,2594.5,4.914241665060715,Regions near a metropolitan area
+POL,PL823,Rzeszowski,3,January to August,3747.25,2.208286076456067,Metropolitan region
+POL,PL824,Tarnobrzeski,3,January to August,3784.25,1.367510074651523,Regions far from a metropolitan area
+POL,PL84,Podlaskie,2,January to August,8526.5,-0.9910279716178971,NA
+POL,PL841,Bialostocki,3,January to August,3421,-1.05232388190587,Metropolitan region
+POL,PL842,Lomzynski,3,January to August,3211.25,-1.533670688984046,Regions far from a metropolitan area
+POL,PL843,Suwalski,3,January to August,1894.25,0.03959350666491446,Regions far from a metropolitan area
+POL,PL91,Warsaw capital region,2,January to August,20911.25,3.212385677565899,NA
+POL,PL911,City of Warsaw,3,January to August,12853,2.754220804481444,Metropolitan region
+POL,PL912,Warsaw-East,3,January to August,3995,4.180225281602001,Metropolitan region
+POL,PL913,Warszawski zachodni,3,January to August,4063.25,3.710084292130689,Metropolitan region
+POL,PL92,Mazowiecki region,2,January to August,17509,3.044148723513618,NA
+POL,PL921,Radomski,3,January to August,4632.5,5.126821370750134,Metropolitan region
+POL,PL922,Ciechanowski,3,January to August,2627,1.027788351732006,Regions far from a metropolitan area
+POL,PL923,Plocki,3,January to August,2467,2.188893392784763,Regions far from a metropolitan area
+POL,PL924,Ostrolecki,3,January to August,2712,4.867256637168138,Regions far from a metropolitan area
+POL,PL925,Siedlecki,3,January to August,3044,0.3285151116951379,Regions far from a metropolitan area
+POL,PL926,Zyrardowski,3,January to August,2026.5,3.577596841845554,Regions far from a metropolitan area
+PRT,PT11,North,2,January to August,23343.25,10.11748578282801,NA
+PRT,PT111,Alto Minho,3,January to August,2042.5,7.515299877600978,Regions near a metropolitan area
+PRT,PT112,Cávado,3,January to August,2112.75,16.29392971246006,Regions far from a metropolitan area
+PRT,PT119,Ave,3,January to August,2326,6.835769561478933,Regions near a metropolitan area
+PRT,PT11A,Metropolitan area of Porto,3,January to August,10737.25,10.75461593983562,Metropolitan region
+PRT,PT11B,Alto Tâmega,3,January to August,910,3.076923076923066,Regions far from a metropolitan area
+PRT,PT11C,Tâmega e Sousa,3,January to August,2417,11.54323541580471,Regions near a metropolitan area
+PRT,PT11D,Douro,3,January to August,1672,7.177033492822971,Regions far from a metropolitan area
+PRT,PT11E,Terras de Trás-os-Montes,3,January to August,1125.75,10.94825671774373,Regions far from a metropolitan area
+PRT,PT15,Algarve,2,January to August,3591,2.701197438039538,NA
+PRT,PT150,Algarve,3,January to August,3591,2.701197438039538,Regions far from a metropolitan area
+PRT,PT16,Central Portugal,2,January to August,19172,4.136240350511167,NA
+PRT,PT16B,Oeste,3,January to August,2873.25,1.03541286000175,Regions near a metropolitan area
+PRT,PT16D,Região de Aveiro,3,January to August,2546.75,12.26072445273387,Regions near a metropolitan area
+PRT,PT16E,Região de Coimbra,3,January to August,3737.5,6.006688963210705,Metropolitan region
+PRT,PT16F,Região de Leiria,3,January to August,2236,-2.325581395348841,Regions near a metropolitan area
+PRT,PT16G,Viseu Dão Lafões,3,January to August,2256.5,2.991358298249502,Regions far from a metropolitan area
+PRT,PT16H,Beira Baixa,3,January to August,936.25,9.479305740987986,Regions far from a metropolitan area
+PRT,PT16I,Médio Tejo,3,January to August,2245.5,5.678022712090858,Regions far from a metropolitan area
+PRT,PT16J,Beiras e Serra da Estrela,3,January to August,2340.25,-0.2243350069436989,Regions far from a metropolitan area
+PRT,PT17,Metropolitan area of Lisbon,2,January to August,18826.25,6.611778766350174,NA
+PRT,PT170,Metropolitan area of Lisbon,3,January to August,18826.25,6.611778766350174,Metropolitan region
+PRT,PT18,Alentejo,2,January to August,7098.25,4.82865495016378,NA
+PRT,PT181,Alentejo Litoral,3,January to August,850.5,4.056437389770728,Regions far from a metropolitan area
+PRT,PT184,Baixo Alentejo,3,January to August,1314,7.686453576864527,Regions far from a metropolitan area
+PRT,PT185,Lezíria do Tejo,3,January to August,2119.25,3.102512681373137,Regions far from a metropolitan area
+PRT,PT186,Alto Alentejo,3,January to August,1282.25,1.540261259504772,Regions far from a metropolitan area
+PRT,PT187,Alentejo Central,3,January to August,1532.25,7.945831293848915,Regions far from a metropolitan area
+PRT,PT20,Autonomous Region of the Azores,2,January to August,1575.5,2.253252935576011,NA
+PRT,PT200,Autonomous Region of the Azores,3,January to August,1575.5,2.253252935576011,Regions far from a metropolitan area
+PRT,PT30,Autonomous Region of Madeira,2,January to August,1806.75,1.010101010101017,NA
+PRT,PT300,Autonomous Region of Madeira,3,January to August,1806.75,1.010101010101017,Regions far from a metropolitan area
+SVK,SK01,Bratislava Region,2,January to August,4113,-0.6321419888159485,NA
+SVK,SK010,Bratislava Region,3,January to August,4113,-0.6321419888159485,Metropolitan region
+SVK,SK02,West Slovakia,2,January to August,13137.5,-1.480494766888674,NA
+SVK,SK021,Trnava Region,3,January to August,3813.25,-0.9244083131187297,Regions near a metropolitan area
+SVK,SK022,Trencín Region,3,January to August,4144,-0.5067567567567544,Regions far from a metropolitan area
+SVK,SK023,Nitra Region,3,January to August,5180.25,-2.668790116307129,Regions far from a metropolitan area
+SVK,SK03,Central Slovakia,2,January to August,9193.25,-0.9708209827862802,NA
+SVK,SK031,Žilina Region,3,January to August,4485.75,-1.198238867524937,Regions far from a metropolitan area
+SVK,SK032,Banská Bystrica Region,3,January to August,4707.5,-0.7541157727031345,Regions far from a metropolitan area
+SVK,SK04,East Slovakia,2,January to August,9621,2.141149568651901,NA
+SVK,SK041,Prešov Region,3,January to August,4677.25,0.5719172590731736,Regions far from a metropolitan area
+SVK,SK042,Košice Region,3,January to August,4943.75,3.625790139064478,Metropolitan region
+SWE,SE11,Stockholm,2,January to August,10536.25,20.69759164788232,NA
+SWE,SE110,Stockholm County,3,January to August,10536.25,20.69759164788232,Metropolitan region
+SWE,SE12,East Middle Sweden,2,January to August,10287.5,6.469015795868782,NA
+SWE,SE121,Uppsala County,3,January to August,1827.5,10.86183310533515,Metropolitan region
+SWE,SE122,Södermanland County,3,January to August,1955.25,8.784042961258143,Regions near a metropolitan area
+SWE,SE123,Östergötland County,3,January to August,2809,3.061587753648976,Regions far from a metropolitan area
+SWE,SE124,Örebro County,3,January to August,1940.25,1.636387063522737,Regions far from a metropolitan area
+SWE,SE125,Västmanland County,3,January to August,1755.5,10.11107946454002,Regions far from a metropolitan area
+SWE,SE21,Småland with Islands,2,January to August,5612.25,5.305358813310179,NA
+SWE,SE211,Jönköping County,3,January to August,2179.75,7.535267805941048,Regions far from a metropolitan area
+SWE,SE212,Kronoberg County,3,January to August,1223,7.277187244480787,Regions far from a metropolitan area
+SWE,SE213,Kalmar County,3,January to August,1800.75,1.124531445231147,Regions far from a metropolitan area
+SWE,SE214,Gotland County,3,January to August,408.75,5.932721712538225,Regions far from a metropolitan area
+SWE,SE22,South Sweden,2,January to August,8875,0.8225352112676054,NA
+SWE,SE221,Blekinge County,3,January to August,1145.75,-0.8509709797076104,Regions far from a metropolitan area
+SWE,SE224,Skåne County,3,January to August,7729.25,1.070608403143902,Metropolitan region
+SWE,SE23,West Sweden,2,January to August,11785,5.362749257530752,NA
+SWE,SE231,Halland County,3,January to August,1937.25,1.690540714930955,Regions far from a metropolitan area
+SWE,SE232,Västra Götaland County,3,January to August,9847.75,6.085146353227899,Metropolitan region
+SWE,SE31,North Middle Sweden,2,January to August,6188.25,4.165151698783975,NA
+SWE,SE311,Värmlands County,3,January to August,2044.5,2.714600146735147,Regions far from a metropolitan area
+SWE,SE312,Dalarna County,3,January to August,2053.25,8.1212711554852,Regions far from a metropolitan area
+SWE,SE313,Gävleborg County,3,January to August,2090.5,1.698158335326472,Regions far from a metropolitan area
+SWE,SE32,Central Norrland,2,January to August,2842.5,6.912928759894466,NA
+SWE,SE321,Västernorrland County,3,January to August,1896.25,6.578773895847068,Regions far from a metropolitan area
+SWE,SE322,Jämtland County,3,January to August,946.25,7.582562747688249,Regions far from a metropolitan area
+SWE,SE33,Upper Norrland,2,January to August,3631.5,1.252925788241766,NA
+SWE,SE331,Västerbottens County,3,January to August,1750.5,-4.770065695515569,Regions far from a metropolitan area
+SWE,SE332,Norrbottens County,3,January to August,1881,6.858054226475274,Regions far from a metropolitan area
+USA,US01,Alabama,2,January to August,34597.75,16.99026670809518,NA
+USA,US02,Alaska,2,January to August,2823.5,10.21781476890384,NA
+USA,US04,Arizona,2,January to August,39483.75,28.72130939943647,NA
+USA,US05,Arkansas,2,January to August,20770.25,12.63706503291968,NA
+USA,US06,California,2,January to August,177595.75,15.33215181106531,NA
+USA,US08,Colorado,2,January to August,25647,18.80141926931025,NA
+USA,US09,Connecticut,2,January to August,20658,23.53083551166619,NA
+USA,US10,Delaware,2,January to August,6042.5,18.89118742242448,NA
+USA,US11,District of Columbia,2,January to August,3980,27.8391959798995,NA
+USA,US12,Florida,2,January to August,136422.75,19.07764650690593,NA
+USA,US13,Georgia,2,January to August,55402.5,21.11547312846893,NA
+USA,US15,Hawaii,2,January to August,7565.5,5.822483642852427,NA
+USA,US16,Idaho,2,January to August,9195,11.62588363240893,NA
+USA,US17,Illinois,2,January to August,69401.5,18.9080927645656,NA
+USA,US18,Indiana,2,January to August,43111.75,15.46968053952809,NA
+USA,US19,Iowa,2,January to August,19642.25,11.32635008718452,NA
+USA,US20,Kansas,2,January to August,17213.25,9.386664342875406,NA
+USA,US21,Kentucky,2,January to August,31643.5,9.886706590611016,NA
+USA,US22,Louisiana,2,January to August,29964.75,26.55203197089915,NA
+USA,US23,Maine,2,January to August,9484.5,7.470082766619224,NA
+USA,US24,Maryland,2,January to August,32657.25,21.05428350519409,NA
+USA,US25,Massachusetts,2,January to August,38869.75,23.22178557875983,NA
+USA,US26,Michigan,2,January to August,63461.5,17.85570779133805,NA
+USA,US27,Minnesota,2,January to August,28848.5,13.53796557879958,NA
+USA,US28,Mississippi,2,January to August,20719.75,22.23603084014045,NA
+USA,US29,Missouri,2,January to August,42310.25,10.58313292878204,NA
+USA,US30,Montana (US),2,January to August,6725,6.438661710037175,NA
+USA,US31,Nebraska,2,January to August,11138.5,7.842169053283654,NA
+USA,US32,Nevada,2,January to August,17003.5,17.34642867644898,NA
+USA,US33,New Hampshire,2,January to August,8008.5,10.99456827121184,NA
+USA,US34,New Jersey,2,January to August,48522,38.82774823791271,NA
+USA,US35,New Mexico,2,January to August,12095,16.46961554361306,NA
+USA,US36,New York,2,January to August,101166.5,42.5837604345312,NA
+USA,US37,North Carolina,2,January to August,61958.5,12.92881525537255,NA
+USA,US38,North Dakota,2,January to August,4591.5,10.6827834041163,NA
+USA,US39,Ohio,2,January to August,80791.75,10.89869943403874,NA
+USA,US40,Oklahoma,2,January to August,25904.5,9.231986720453978,NA
+USA,US41,Oregon,2,January to August,24048,8.520459081836318,NA
+USA,US42,Pennsylvania,2,January to August,89176.5,12.09455405852438,NA
+USA,US44,Rhode Island,2,January to August,6811.25,17.49678840154157,NA
+USA,US45,South Carolina,2,January to August,31989.25,22.35360316356276,NA
+USA,US46,South Dakota,2,January to August,5315.75,8.639420589756863,NA
+USA,US47,Tennessee,2,January to August,48558.5,13.54345789099745,NA
+USA,US48,Texas,2,January to August,132488.5,22.51101038958099,NA
+USA,US49,Utah,2,January to August,12496.5,12.09538670827832,NA
+USA,US50,Vermont,2,January to August,3786.75,6.740608701393014,NA
+USA,US51,Virginia,2,January to August,44508.5,16.16657492389095,NA
+USA,US53,Washington,2,January to August,37447.5,10.19160157553909,NA
+USA,US54,West Virginia,2,January to August,14816.75,6.568579479305514,NA
+USA,US55,Wisconsin,2,January to August,34625.75,10.9925416777976,NA
+USA,US56,Wyoming,2,January to August,2953.25,14.72107000761873,NA
