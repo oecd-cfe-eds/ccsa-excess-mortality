@@ -4,7 +4,9 @@ This repository contains data and metadata on excess mortality in OECD regions,
 prepared by the 
 [OECD’s Centre for Entrepreneurship, SMEs, Regions and Cities](http://www.oecd.org/cfe/)
 for the publication
-**How COVID-19 is changing the world: a statistical perspective (Volume III)**.
+[**How COVID-19 is changing the world: a statistical perspective (Volume III)**](https://unstats.un.org/unsd/ccsa/documents/covid19-report-ccsa_vol3.pdf), 
+published by the [Community for the Coordination of Statistical Activities (CCSA)](https://unstats.un.org/unsd/ccsa/) 
+in March, 2021.
 
 ## Contents
 
